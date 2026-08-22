@@ -1,15 +1,15 @@
 {
-  "date": "2026-08-21",
-  "generated_at": "2026-08-21T06:37:14Z",
+  "date": "2026-08-22",
+  "generated_at": "2026-08-22T09:00:00Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: Dow fell ~700pts (>1%), S&P 500 -0.9%, Nasdaq -1% Thu as yields and oil rose",
-    "Yields: 30-yr Treasury climbed to ~5.24-5.25% (from 5.19%) despite Bessent signaling bigger bond buybacks (>$4B/operation) to bring yields down",
-    "Oil/Gold/Crypto: Brent crude +2.4% to $93.78/bbl on Trump's threat of 'maximum economic pain' on Iran; gold +0.8% to $4,580; bitcoin roughly flat near $72,681",
-    "Companies: Walmart sank ~9% after its smallest sales gain in 6+ years amid cautious consumer spending",
-    "Companies: Moderna fell 24%, giving back part of the prior day's 177% rally on melanoma vaccine data",
-    "Companies: SpaceX shares down 4.1% after Musk said the next big Starship rocket operation is still months away",
-    "Macro: WSJ notes Treasuries are losing their 'safe haven' status as US debt hits $40 trillion",
-    "Ahead: Flash Manufacturing PMI due Fri; BJ's Wholesale and KE Holdings report earnings"
+    "Markets: Stocks bounced back Fri, Dow +1% (~518pts) to 53,277, S&P 500 +0.43% to 7,674, Nasdaq +0.43% to 26,180",
+    "Yields: 30-yr Treasury near decade highs at ~5.28%, 10-yr ~4.74%, despite Bessent doubling long-bond buybacks to $4B+/operation",
+    "Crypto: Bitcoin surged 22% on the week, briefly neared $80k, on Trump's push for crypto-friendly CLARITY Act; Robinhood +14%, Coinbase +8% on the week",
+    "Gold/Silver: Gold hit a 3-month high, +5.6% this week to $4,624/oz; silver also on a 3-week win streak",
+    "Companies: Walmart down ~10% on the week after its slowest sales growth in 6+ years",
+    "Companies: Moderna/Merck mRNA cancer treatment data has investors rushing back into biotech",
+    "Macro/Policy: Fed Chair Kevin Warsh convening task forces to rethink inflation approach; speaks at Jackson Hole next Thu-Sat",
+    "Ahead: Nvidia, Salesforce, CrowdStrike, HP, Okta earnings next week; Q2 GDP (2nd est.) and PCE inflation data due"
   ]
 }
