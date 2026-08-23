@@ -1,15 +1,13 @@
 {
-  "date": "2026-08-22",
-  "generated_at": "2026-08-22T09:00:00Z",
+  "date": "2026-08-23",
+  "generated_at": "2026-08-23T13:00:00Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: Stocks bounced back Fri, Dow +1% (~518pts) to 53,277, S&P 500 +0.43% to 7,674, Nasdaq +0.43% to 26,180",
-    "Yields: 30-yr Treasury near decade highs at ~5.28%, 10-yr ~4.74%, despite Bessent doubling long-bond buybacks to $4B+/operation",
-    "Crypto: Bitcoin surged 22% on the week, briefly neared $80k, on Trump's push for crypto-friendly CLARITY Act; Robinhood +14%, Coinbase +8% on the week",
-    "Gold/Silver: Gold hit a 3-month high, +5.6% this week to $4,624/oz; silver also on a 3-week win streak",
-    "Companies: Walmart down ~10% on the week after its slowest sales growth in 6+ years",
-    "Companies: Moderna/Merck mRNA cancer treatment data has investors rushing back into biotech",
-    "Macro/Policy: Fed Chair Kevin Warsh convening task forces to rethink inflation approach; speaks at Jackson Hole next Thu-Sat",
-    "Ahead: Nvidia, Salesforce, CrowdStrike, HP, Okta earnings next week; Q2 GDP (2nd est.) and PCE inflation data due"
+    "Markets: Quiet weekend, no new session; Friday's rebound holds (Dow 53,277, S&P 7,674, Nasdaq 26,180) after a volatile week driven by bond-market swings and near-decade-high yields",
+    "Companies: Anthropic filed for an IPO, flagging AI backlash as a risk factor",
+    "Companies: Tesla recalling ~3M vehicles in China over door-handle/driver-monitoring issues, despite its best week since May on robotaxi news",
+    "Companies: Banca Monte dei Paschi offered ~€34B for rivals Banco BPM and Banca Generali while fending off Intesa Sanpaolo's own bid; TikTok/ByteDance reached a $400M DOJ settlement over children's privacy",
+    "Macro/Policy: Ray Dalio warned Treasury's bond-market intervention signals a nearing debt crisis; US-Iran peace deal prospects reportedly fading, pressuring eurozone yields",
+    "Ahead: Fed Chair Kevin Warsh's first Jackson Hole keynote is Fri 8/28 (symposium 8/27-29); July PCE inflation data and Nvidia earnings both land Wed 8/26 - the week's key catalysts"
   ]
 }
