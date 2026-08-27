@@ -1,14 +1,14 @@
 {
-  "date": "2026-08-26",
-  "generated_at": "2026-08-26T06:38:22Z",
+  "date": "2026-08-27",
+  "generated_at": "2026-08-27T13:00:00Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: Futures turned cautious Wed morning (Nasdaq 100 futures -0.5%) ahead of Nvidia earnings, after Tuesday's close higher (S&P +0.3%, Nasdaq +0.6%, Dow +0.3%) despite Canada-U.S. trade tensions, as oil sank ~4% to $88.58/bbl and the 10-yr yield eased to 4.64%",
-    "Markets: Asia-Pacific stocks rebounded (MSCI APAC +0.3%); Samsung and SK Hynix gained while Tokyo Electron and Kioxia slipped as traders trimmed chip exposure ahead of Nvidia's print",
-    "Companies: Nvidia reports Q2 results after today's close - Street expects ~$91B revenue and $2.09 EPS, seen as the key test of the AI trade's durability",
-    "Companies: Dick's Sporting Goods plunged ~31% Tuesday after cutting its outlook on weak sneaker demand tied to its Foot Locker business, dragging Nike, lululemon, Under Armour and Target lower too",
-    "Companies: Anthropic is reportedly set to tell investors its potential revenue opportunity tops $30T, topping SpaceX's earlier $28.5T claim",
-    "Macro/Policy: Canada-U.S. trade war deepens - Canada's retaliatory tariffs (15%-50% on ~$20B of U.S. goods, doubling steel/aluminum duties to 50%) take effect Sept. 8; PM Carney says Canada is 'at war' with the U.S., and Trump has floated doubling Canadian auto tariffs to 50% in January",
-    "Macro/Policy: Today brings July PCE inflation (Fed's preferred gauge) plus personal income/spending data, with markets also bracing for new Fed Chair Kevin Warsh's first Jackson Hole keynote Friday - a rare same-week collision with Nvidia earnings"
+    "Markets: Nvidia beat Q2 revenue/EPS estimates; shares dipped slightly after-hours Wednesday but Nasdaq 100 futures jumped ~1% Thursday after CFO Colette Kress signaled strong FY2028 sales growth, easing AI-spending-slowdown fears",
+    "Markets: US stocks traded mixed Wednesday (Dow -0.2%, S&P/Nasdaq slipped) as sticky inflation kept traders cautious ahead of the Fed's Jackson Hole gathering; gold fell ~1%, oil eased near $82/bbl",
+    "Companies: Meta settled child-safety suits with 48 state AGs for roughly $17-18B, agreeing to new teen limits (2-hr daily cap, overnight-use ban for under-18s); shares rose ~1.1%",
+    "Companies: Vanguard agreed to acquire fintech custodian Altruist for ~$4B, challenging Schwab/Fidelity in independent-advisor services; Schwab shares fell 2.6%",
+    "Companies: Google Cloud is rolling out pay-as-you-go pricing for Gemini Enterprise to ease corporate 'AI sticker shock'",
+    "Macro/Policy: Fed's preferred inflation gauge (core PCE) held at 3.7% y/y in July, above forecast and well above the 2% target; Boston Fed's Collins warned rates may need to rise further if inflation doesn't cool",
+    "Macro/Policy: Bill Gates published a stark essay warning the AI transition could be 'one of the most turbulent' periods in history, urging a robot tax and jobs reserved for humans; Bank of Korea hiked to 3.00% while the RBA held at 4.35%"
   ]
 }
