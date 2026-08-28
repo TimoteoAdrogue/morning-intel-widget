@@ -1,14 +1,12 @@
 {
-  "date": "2026-08-27",
-  "generated_at": "2026-08-27T13:00:00Z",
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T06:37:39Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: Nvidia beat Q2 revenue/EPS estimates; shares dipped slightly after-hours Wednesday but Nasdaq 100 futures jumped ~1% Thursday after CFO Colette Kress signaled strong FY2028 sales growth, easing AI-spending-slowdown fears",
-    "Markets: US stocks traded mixed Wednesday (Dow -0.2%, S&P/Nasdaq slipped) as sticky inflation kept traders cautious ahead of the Fed's Jackson Hole gathering; gold fell ~1%, oil eased near $82/bbl",
-    "Companies: Meta settled child-safety suits with 48 state AGs for roughly $17-18B, agreeing to new teen limits (2-hr daily cap, overnight-use ban for under-18s); shares rose ~1.1%",
-    "Companies: Vanguard agreed to acquire fintech custodian Altruist for ~$4B, challenging Schwab/Fidelity in independent-advisor services; Schwab shares fell 2.6%",
-    "Companies: Google Cloud is rolling out pay-as-you-go pricing for Gemini Enterprise to ease corporate 'AI sticker shock'",
-    "Macro/Policy: Fed's preferred inflation gauge (core PCE) held at 3.7% y/y in July, above forecast and well above the 2% target; Boston Fed's Collins warned rates may need to rise further if inflation doesn't cool",
-    "Macro/Policy: Bill Gates published a stark essay warning the AI transition could be 'one of the most turbulent' periods in history, urging a robot tax and jobs reserved for humans; Bank of Korea hiked to 3.00% while the RBA held at 4.35%"
+    "Markets: Nvidia surged 8.7% Thursday after guiding to 70% revenue growth next fiscal year (vs. 45% expected); Nasdaq closed at 26,541 (+1.6%), S&P 500 at 7,731 (+0.7%), Dow at 53,569 (+0.2%)",
+    "Markets: US futures slipped and gold held near $4,600 early Friday as traders await Fed Chair Kevin Warsh's Jackson Hole speech (10am ET); crude oil near $83.50/bbl",
+    "Companies: Salesforce jumped ~23% on a new 'Claudeforce' partnership with Anthropic plus a Q2 beat and raised FY27 guidance; software peers CrowdStrike and Okta rallied too",
+    "Companies: Marvell fell over 7% after-hours despite meeting/beating estimates, on elevated expectations; new tariffs on Canadian autos and semiconductors hit chip/auto supply chains, with Micron down ~3%",
+    "Macro/Policy: Boston Fed's Susan Collins said further rate hikes could be warranted if inflation doesn't cool; scrutiny is growing over Treasury Secretary Bessent's expanding involvement near the Fed's turf ahead of Warsh's address"
   ]
 }
