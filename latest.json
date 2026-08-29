@@ -1,12 +1,14 @@
 {
-  "date": "2026-08-28",
-  "generated_at": "2026-08-28T06:37:39Z",
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T06:37:39Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: Nvidia surged 8.7% Thursday after guiding to 70% revenue growth next fiscal year (vs. 45% expected); Nasdaq closed at 26,541 (+1.6%), S&P 500 at 7,731 (+0.7%), Dow at 53,569 (+0.2%)",
-    "Markets: US futures slipped and gold held near $4,600 early Friday as traders await Fed Chair Kevin Warsh's Jackson Hole speech (10am ET); crude oil near $83.50/bbl",
-    "Companies: Salesforce jumped ~23% on a new 'Claudeforce' partnership with Anthropic plus a Q2 beat and raised FY27 guidance; software peers CrowdStrike and Okta rallied too",
-    "Companies: Marvell fell over 7% after-hours despite meeting/beating estimates, on elevated expectations; new tariffs on Canadian autos and semiconductors hit chip/auto supply chains, with Micron down ~3%",
-    "Macro/Policy: Boston Fed's Susan Collins said further rate hikes could be warranted if inflation doesn't cool; scrutiny is growing over Treasury Secretary Bessent's expanding involvement near the Fed's turf ahead of Warsh's address"
+    "Markets: Fed Chair Kevin Warsh's hawkish Jackson Hole speech pushed next-month rate-hike odds to ~60% (from 35%); 2-yr Treasury yield rose to 4.35%, gold fell >3% to ~$4,509, and the S&P 500 (-0.25%) and Nasdaq (-0.5%) slipped Friday, trimming Thursday's Nvidia-fueled rally",
+    "Markets: Agricultural commodities extended a sharp run — wheat up ~51% year-to-date (+10% this week), corn +22% YTD, soybeans +22% YTD",
+    "Companies: Chevron and Halliburton are reportedly near deals to expand Venezuelan oil operations as the Trump administration negotiates a U.S. ownership stake in Venezuela's oil reserves",
+    "Companies: Meta reached a multistate settlement over claims Facebook/Instagram harmed children, forcing product changes and billions in penalties after Congress's Kids Online Safety Act repeatedly stalled",
+    "Companies: Tyson Foods and JBS shares fell after Trump said he's drafting rules to let farmers/ranchers process their own meat, threatening processors' business model; Broadcom, Palo Alto Networks, Dell and HPE report earnings next week, with the August jobs report due Friday Sept. 4",
+    "Macro/Policy: A federal judge struck down the Pentagon's blacklisting of Anthropic as a 'supply-chain risk' in its dispute over military use of Claude; the government is expected to appeal",
+    "Macro/Policy: Oil flows through the Strait of Hormuz remain about two-thirds of pre-war levels per Goldman Sachs; Trump plans to meet refiners and fuel retailers next week over high gas prices ahead of the midterms"
   ]
 }
