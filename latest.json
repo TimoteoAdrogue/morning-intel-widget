@@ -1,13 +1,14 @@
 {
-  "date": "2026-09-04",
-  "generated_at": "2026-09-04T06:37:45Z",
+  "date": "2026-09-05",
+  "generated_at": "2026-09-05T06:37:28Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: S&P 500 (+1.0%), Nasdaq (+1.4%) and Dow (+624 pts/+1.2%) rallied for a second straight session Thursday after Fed Governor Waller said he'd support holding rates steady this month if August inflation data cooperates, easing rate-hike fears tied to the oil-driven inflation scare.",
-    "Markets: The 10-year Treasury yield eased to 4.76% after touching its highest level since last year earlier in the week; gold jumped 2.4% to ~$4,519/oz and crude held near $91.70/bbl.",
-    "Markets: All eyes are on today's August jobs report (8:30am ET) — the last major data point before the Fed's Sept 16 rate decision.",
-    "Companies: Nvidia agreed to buy Hugging Face for about $12.9 billion, its largest deal since the 2020 Mellanox acquisition, deepening its foothold in open-weight AI models; Nvidia shares rose 1.8%.",
-    "Companies: Uber is cutting about 10% of its workforce as part of a broader corporate shift away from 'micro-team' management structures with just one or two direct reports.",
-    "Macro/Policy: Bets on a September Fed rate hike have pared back after Waller's dovish-leaning comments, though the Sept 16 decision still hinges on today's jobs data and how oil-driven inflation pressures evolve."
+    "Markets: Stocks fell Friday (Dow -271.9pts/-0.5% to 53,414; S&P 500 -0.4% to 7,718.60; Nasdaq -0.3% to 26,507) after August payrolls smashed forecasts (+162K vs +53K expected, unemployment steady at 4.1%), lifting odds of a Fed rate hike this month to ~58-59% from ~50%.",
+    "Markets: The 10-year Treasury yield rose to 4.79%; gold slid 1.3% to ~$4,481/oz; crude held near $91.32/bbl. Government bond yields in Japan, the UK and Germany hit multi-decade highs.",
+    "Companies: Volkswagen shares jumped 6.5% after its board approved doubling planned workforce cuts to 100,000 and halving its model lineup amid Chinese competition and tariff pressure.",
+    "Companies: Tesla fell more than 6% as its Austin Cybercab robotaxi launch (only 45 in service so far) left analysts with more questions than answers.",
+    "Companies: Flex agreed to buy EPC Power for $4.4B to expand data-center power offerings; China's Moonshot AI (maker of Kimi K3) hit a $50B valuation ahead of a planned Hong Kong IPO.",
+    "Macro/Policy: US diesel prices hit a record $5.85/gal, topping the 2022 high, as Strait of Hormuz shipping disruptions and Ukrainian strikes on Russian refineries tighten supply.",
+    "Macro/Policy: Trump threatened to cut off trade with deficit countries unless the Fed lowers rates; markets largely shrugged it off. US markets are closed Monday for Labor Day."
   ]
 }
