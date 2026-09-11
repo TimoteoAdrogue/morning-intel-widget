@@ -1,15 +1,15 @@
 {
-  "date": "2026-09-10",
-  "generated_at": "2026-09-10T06:37:37Z",
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T06:38:51Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: Stocks fell again Wednesday (S&P 500 -0.5%, Dow -405 pts/-0.8%, Nasdaq -0.6%) after Tuesday's steeper 628-point Dow drop; September is living up to its weak seasonal reputation.",
-    "Markets: Oil surged further, Brent above $101/barrel and WTI near $97, after the U.S. struck Iranian oil tankers and Houthi forces hit Saudi Arabia; both benchmarks are up 60%+ year-to-date and U.S. diesel hit a record ~$5.90-5.94/gallon.",
-    "Markets: The 10-year Treasury yield jumped to about 4.85%, its highest in roughly three years, after the Treasury's new $6B long-bond buyback program (purchases begin today) came in smaller than investors had hoped.",
-    "Companies: Apple unveiled its first foldable iPhone ($1,999 starting price) under new CEO John Ternus and raised iPhone prices to offset rising memory/storage chip costs; shares dipped only 0.3%, outperforming the broader market.",
-    "Companies: Casey's General Stores plunged 14% on same-store sales growth that missed elevated expectations, while newly-IPO'd Jersey Mike's Subs rose 7.5% on its first earnings report.",
-    "Companies: An Anthropic AI safety researcher resigned, citing fears that AI labs are racing to build systems they won't be able to control, echoing departures at OpenAI and elsewhere.",
-    "Macro/Policy: Fed-hike odds for the Sept 15-16 FOMC meeting climbed to roughly 57-58% (from ~50%) as oil-driven inflation risk collides with a stronger-than-expected August jobs report (+162k vs. 65k consensus).",
-    "Macro/Policy: Thursday brings initial jobless claims, existing home sales, and producer price index data, plus earnings from Oracle and Adobe after the close."
+    "Markets: Stocks fell for a 4th straight session Thursday (S&P 500 -0.5% to 7,636.36, Dow -405 pts/-0.8% to 52,380.66, Nasdaq -0.6% to 26,253.34) as hot inflation data and surging oil weighed on sentiment.",
+    "Markets: Brent crude jumped 6.3% to $107.63/barrel, its highest since the Iran war escalated, after Houthi attacks wounded 73 people at Saudi energy facilities and halted some operations.",
+    "Markets: The 10-year Treasury yield climbed to about 4.95%, a fresh ~3-year high, as the bond selloff continued despite the Fed's ongoing buyback operation; the dollar hit a one-week high.",
+    "Companies: Nvidia invested roughly $3.5B into a Qualcomm-rival AI chip effort, pushing further into the AI stack; chip and AI-related stocks broadly slid Thursday in the risk-off mood.",
+    "Companies: Kroger reports earnings today, offering a read on consumer spending as energy and food costs climb.",
+    "Macro/Policy: August PPI ran hot Thursday: headline +0.4% M/M as expected but +5.4% Y/Y (above forecast) on surging energy costs (diesel +24%); core PPI +0.2% M/M, +4.6% Y/Y, pushing Fed rate-hike odds for the Sept 15-16 FOMC meeting to roughly 70%.",
+    "Macro/Policy: August CPI is due today at 8:30am ET, with consensus near 3.3-3.4% headline Y/Y and ~2.4% core Y/Y — a pivotal print ahead of next week's Fed decision.",
+    "Macro/Policy: Existing home sales fell, adding to signs of a cooling economy even as inflation pressures build."
   ]
 }
