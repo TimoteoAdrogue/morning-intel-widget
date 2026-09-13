@@ -1,17 +1,13 @@
 {
-  "date": "2026-09-12",
-  "generated_at": "2026-09-12T06:38:25Z",
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T06:38:43Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: S&P 500 +0.9%, Nasdaq +1%, Dow +509 pts Friday, snapping a 4-day losing streak as oil and Treasury yields paused their surge.",
-    "Markets: Traders now price ~87% odds of a Fed rate HIKE at next week's Sept 15-16 meeting (up from 72%) after hot inflation data; the 10-yr yield sits near 4.97%.",
-    "Macro: August CPI rose 3.4% Y/Y (in line with July), but core CPI +0.3% M/M topped forecasts, reinforcing sticky inflation.",
-    "Macro: University of Michigan consumer sentiment sank to 47.8 in September (from 51.7) on rising fuel costs and trade tensions.",
-    "Macro/Policy: Houthi forces seized the Bab al-Mandeb strait chokepoint plus Mocha port and Perim Island; Saudi Arabia shut its East-West pipeline after drone strikes, putting both major Saudi export routes under threat.",
-    "Macro/Policy: Brent crude spiked toward $108 before easing to ~$104-105/barrel; U.S. diesel hit a record $6/gallon, up 60% Y/Y, feeding into broader transport and consumer costs.",
-    "Companies: Dell shares jumped 12% after a bullish RBC initiation citing AI infrastructure and agentic-workload demand.",
-    "Companies: GE Aerospace agreed to buy castings maker Consolidated Precision Products for $11.75B ($7B cash plus debt) to meet rising aerospace/defense demand.",
-    "Companies: PayPal's new CEO Enrique Lores is planning to go it alone rather than sell the company, aiming to turn Venmo into a full money-management app.",
-    "Ahead: Fed decision and August retail sales data both due next week."
+    "Markets: Fed's Sept 15-16 meeting looms with traders pricing ~80-90% odds of a 25bp hike after hot core CPI (+0.3% M/M); 10-yr yield near 4.97%.",
+    "Markets: Oil eased over the weekend, with Brent back to ~$104-105/bbl from a $108 spike, as Trump-Saudi contacts and Houthi assurances calmed fears; VIX fell ~11% Friday as stocks snapped a 4-day skid (S&P +0.9%, Dow +509, Nasdaq +1%).",
+    "Macro/Policy: Trump spoke with the Saudi Crown Prince Saturday; Riyadh held off retaliating (at Iraq's request) after its East-West pipeline was hit, and the Houthis pledged to target only Saudi-flagged vessels in the Bab al-Mandeb, not general shipping.",
+    "Macro/Policy: Iran says it will meet Gulf states in Oman this week over Strait of Hormuz security, a second chokepoint to watch alongside Wednesday's Fed decision.",
+    "Macro/Policy: Congress in 'AI alarm' mode after a doomsday warning from an ex-Anthropic researcher; House Democrats push to recall Congress and fast-track AI safeguards (kill switches, model pause) while GOP leadership resists, a policy overhang for AI-linked stocks.",
+    "Companies: Bloom Energy added to the S&P 500; SpaceX's index weighting increase in the Nasdaq 100 also in focus this week."
   ]
 }
