@@ -1,13 +1,13 @@
 {
-  "date": "2026-09-13",
-  "generated_at": "2026-09-13T06:38:43Z",
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T00:00:00Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: Fed's Sept 15-16 meeting looms with traders pricing ~80-90% odds of a 25bp hike after hot core CPI (+0.3% M/M); 10-yr yield near 4.97%.",
-    "Markets: Oil eased over the weekend, with Brent back to ~$104-105/bbl from a $108 spike, as Trump-Saudi contacts and Houthi assurances calmed fears; VIX fell ~11% Friday as stocks snapped a 4-day skid (S&P +0.9%, Dow +509, Nasdaq +1%).",
-    "Macro/Policy: Trump spoke with the Saudi Crown Prince Saturday; Riyadh held off retaliating (at Iraq's request) after its East-West pipeline was hit, and the Houthis pledged to target only Saudi-flagged vessels in the Bab al-Mandeb, not general shipping.",
-    "Macro/Policy: Iran says it will meet Gulf states in Oman this week over Strait of Hormuz security, a second chokepoint to watch alongside Wednesday's Fed decision.",
-    "Macro/Policy: Congress in 'AI alarm' mode after a doomsday warning from an ex-Anthropic researcher; House Democrats push to recall Congress and fast-track AI safeguards (kill switches, model pause) while GOP leadership resists, a policy overhang for AI-linked stocks.",
-    "Companies: Bloom Energy added to the S&P 500; SpaceX's index weighting increase in the Nasdaq 100 also in focus this week."
+    "Markets: US equity futures fell (Nasdaq 100 -1%+, S&P 500 -0.6%) after AI industry leaders called for a development slowdown, reversing Friday's rebound (S&P had snapped a 4-day losing streak, +0.9%).",
+    "Markets: Brent crude spiked back above $108/bbl (highest since May), reversing the weekend's easing, as Saudi Arabia's East-West pipeline stays shut after fresh drone strikes launched from Iraq.",
+    "Companies: Anthropic's Dario Amodei and OpenAI's Sam Altman jointly urged slowing AI development over safety risks; Elon Musk backed the call, following a high-profile ex-Anthropic researcher's resignation warning of a reckless race to superintelligence.",
+    "Companies: Nvidia is reportedly weighing a ~$10B investment in Anthropic's expected IPO (targeting ~$100B raise at a ~$2T valuation); Dell extended gains on strong earnings while Oracle's post-earnings pop reversed into a roughly 2% decline.",
+    "Macro/Policy: The Fed's FOMC meets Sept 15-16 with a rate decision Wednesday, finely balanced between a hold and a hike after hot August CPI (3.4% Y/Y, core +0.3% M/M) and strong payrolls under new hawkish Chair Kevin Warsh.",
+    "Macro/Policy: Iraq blamed drone launches from Maysan province (near the Iran border) for the Saudi pipeline attack, dismissed a military commander, and launched an investigation as Gulf states plan Hormuz-security talks with Iran in Oman this week."
   ]
 }
