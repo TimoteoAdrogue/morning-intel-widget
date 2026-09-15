@@ -1,13 +1,14 @@
 {
-  "date": "2026-09-14",
-  "generated_at": "2026-09-14T00:00:00Z",
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T06:37:51Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: US equity futures fell (Nasdaq 100 -1%+, S&P 500 -0.6%) after AI industry leaders called for a development slowdown, reversing Friday's rebound (S&P had snapped a 4-day losing streak, +0.9%).",
-    "Markets: Brent crude spiked back above $108/bbl (highest since May), reversing the weekend's easing, as Saudi Arabia's East-West pipeline stays shut after fresh drone strikes launched from Iraq.",
-    "Companies: Anthropic's Dario Amodei and OpenAI's Sam Altman jointly urged slowing AI development over safety risks; Elon Musk backed the call, following a high-profile ex-Anthropic researcher's resignation warning of a reckless race to superintelligence.",
-    "Companies: Nvidia is reportedly weighing a ~$10B investment in Anthropic's expected IPO (targeting ~$100B raise at a ~$2T valuation); Dell extended gains on strong earnings while Oracle's post-earnings pop reversed into a roughly 2% decline.",
-    "Macro/Policy: The Fed's FOMC meets Sept 15-16 with a rate decision Wednesday, finely balanced between a hold and a hike after hot August CPI (3.4% Y/Y, core +0.3% M/M) and strong payrolls under new hawkish Chair Kevin Warsh.",
-    "Macro/Policy: Iraq blamed drone launches from Maysan province (near the Iran border) for the Saudi pipeline attack, dismissed a military commander, and launched an investigation as Gulf states plan Hormuz-security talks with Iran in Oman this week."
+    "Markets: US stocks fell Monday and futures point lower again Tuesday as AI-slowdown fears deepen a chip-stock selloff (Nvidia, Intel down sharply on reports TSMC asked suppliers to delay high-end chipmaking equipment shipments); cybersecurity names (CrowdStrike, Palo Alto Networks, Fortinet) rallied 9-14% on the AI-safety story.",
+    "Markets: The 10-year Treasury yield briefly topped 5% for the first time since 2023 on inflation worries tied to surging oil, before easing back to roughly 4.96-5.0%.",
+    "Markets: Brent crude climbed to ~$107-108/bbl (WTI ~$103) after Saudi Arabia shut its East-West pipeline, the key Strait-of-Hormuz bypass, following drone attacks; repairs could take months.",
+    "Companies: OpenAI's Sam Altman confirmed the company won't IPO in 2026, calling it an 'ill-advised moment' given AI-safety concerns and pushing the target to 2027; Anthropic is still reportedly on track for a possible IPO by year-end near a $2.3T valuation.",
+    "Companies: AI leaders (Anthropic's Amodei, OpenAI's Altman, Elon Musk) called for 'pacing' AI development; Trump publicly dismissed the warnings ('whoever wins AI wins'), while Microsoft published a 'Humanist AI' code pledging models stay under human control.",
+    "Macro/Policy: The Fed's FOMC meets today and Wednesday, with the rate decision a near coin-flip between a hold and a 25bp hike under new Chair Kevin Warsh, who says there's still 'work to do' on inflation.",
+    "Macro/Policy: Saudi Arabia blamed drones launched from Iraq for the pipeline attack; the IEA cut its 2026 global oil demand forecast by 2.5M bpd as Hormuz-linked disruptions drag on."
   ]
 }
