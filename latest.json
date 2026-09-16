@@ -1,14 +1,14 @@
 {
-  "date": "2026-09-15",
-  "generated_at": "2026-09-15T06:37:51Z",
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T06:37:25Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: US stocks fell Monday and futures point lower again Tuesday as AI-slowdown fears deepen a chip-stock selloff (Nvidia, Intel down sharply on reports TSMC asked suppliers to delay high-end chipmaking equipment shipments); cybersecurity names (CrowdStrike, Palo Alto Networks, Fortinet) rallied 9-14% on the AI-safety story.",
-    "Markets: The 10-year Treasury yield briefly topped 5% for the first time since 2023 on inflation worries tied to surging oil, before easing back to roughly 4.96-5.0%.",
-    "Markets: Brent crude climbed to ~$107-108/bbl (WTI ~$103) after Saudi Arabia shut its East-West pipeline, the key Strait-of-Hormuz bypass, following drone attacks; repairs could take months.",
-    "Companies: OpenAI's Sam Altman confirmed the company won't IPO in 2026, calling it an 'ill-advised moment' given AI-safety concerns and pushing the target to 2027; Anthropic is still reportedly on track for a possible IPO by year-end near a $2.3T valuation.",
-    "Companies: AI leaders (Anthropic's Amodei, OpenAI's Altman, Elon Musk) called for 'pacing' AI development; Trump publicly dismissed the warnings ('whoever wins AI wins'), while Microsoft published a 'Humanist AI' code pledging models stay under human control.",
-    "Macro/Policy: The Fed's FOMC meets today and Wednesday, with the rate decision a near coin-flip between a hold and a 25bp hike under new Chair Kevin Warsh, who says there's still 'work to do' on inflation.",
-    "Macro/Policy: Saudi Arabia blamed drones launched from Iraq for the pipeline attack; the IEA cut its 2026 global oil demand forecast by 2.5M bpd as Hormuz-linked disruptions drag on."
+    "Markets: Stocks fell Tuesday (Dow -0.6%, S&P -0.5%, Nasdaq -0.8%) as the 10-year Treasury yield spiked to 5.04% - highest since 2007 - with futures pointing lower again ahead of today's Fed decision.",
+    "Markets: Brent crude jumped ~2% to top $108/bbl after Saudi Arabia shut its key East-West pipeline following drone attacks; Chevron's CEO warned global oil supply is running low with no relief in sight.",
+    "Markets: Crypto slid after the Senate blocked the industry's CLARITY Act in a procedural vote - Bitcoin fell ~4% below $76,000 and Coinbase dropped 10%.",
+    "Companies: AI leaders (Anthropic's Amodei, OpenAI's Altman, Musk) called for slowing frontier AI development on safety grounds over the weekend; Nvidia's Huang pushed back and Trump dismissed the warnings as a 'hoax,' while cybersecurity stocks (CrowdStrike +14%) rallied on AI-cyberattack fears.",
+    "Companies: Dreamforce in San Francisco becomes ground zero for the AI-pace debate as Nvidia, OpenAI and Anthropic CEOs converge; Anthropic is still expected to file for a mega-IPO (~$100B raise, ~$2T valuation) despite the safety rhetoric.",
+    "Macro/Policy: The Fed's rate decision lands today at 2pm ET under new Chair Kevin Warsh, with markets seeing real odds of the first hike since 2023 as oil-driven inflation and AI power demand complicate the outlook.",
+    "Macro/Policy: US diesel hit a record $6.27/gallon (AAA) amid global refining constraints; EPA also finalized repeal of Biden-era power-plant CO2 rules, a move with stakes for a pending Supreme Court case."
   ]
 }
