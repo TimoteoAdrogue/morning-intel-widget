@@ -1,14 +1,13 @@
 {
-  "date": "2026-09-16",
-  "generated_at": "2026-09-16T06:37:25Z",
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T06:37:38Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: Stocks fell Tuesday (Dow -0.6%, S&P -0.5%, Nasdaq -0.8%) as the 10-year Treasury yield spiked to 5.04% - highest since 2007 - with futures pointing lower again ahead of today's Fed decision.",
-    "Markets: Brent crude jumped ~2% to top $108/bbl after Saudi Arabia shut its key East-West pipeline following drone attacks; Chevron's CEO warned global oil supply is running low with no relief in sight.",
-    "Markets: Crypto slid after the Senate blocked the industry's CLARITY Act in a procedural vote - Bitcoin fell ~4% below $76,000 and Coinbase dropped 10%.",
-    "Companies: AI leaders (Anthropic's Amodei, OpenAI's Altman, Musk) called for slowing frontier AI development on safety grounds over the weekend; Nvidia's Huang pushed back and Trump dismissed the warnings as a 'hoax,' while cybersecurity stocks (CrowdStrike +14%) rallied on AI-cyberattack fears.",
-    "Companies: Dreamforce in San Francisco becomes ground zero for the AI-pace debate as Nvidia, OpenAI and Anthropic CEOs converge; Anthropic is still expected to file for a mega-IPO (~$100B raise, ~$2T valuation) despite the safety rhetoric.",
-    "Macro/Policy: The Fed's rate decision lands today at 2pm ET under new Chair Kevin Warsh, with markets seeing real odds of the first hike since 2023 as oil-driven inflation and AI power demand complicate the outlook.",
-    "Macro/Policy: US diesel hit a record $6.27/gallon (AAA) amid global refining constraints; EPA also finalized repeal of Biden-era power-plant CO2 rules, a move with stakes for a pending Supreme Court case."
+    "Markets: Fed hiked rates 25bp to 3.75%-4% Wednesday - first hike since 2023 - under new Chair Kevin Warsh; stocks sold off (Dow -1.2%, S&P -0.5%) but futures rebounded Thursday (S&P +0.6%) as Warsh's inflation resolve reassured bond markets.",
+    "Markets: The 10-year Treasury yield topped 5% (highest since 2007) and the 2-year hit its highest since 2024 after Warsh warned 'inflation is too high and has been for too long'; Brent crude fell ~3% to just under $106/bbl.",
+    "Companies: OpenAI is in early talks for a new funding round that could value it above $1.2 trillion (vs. $852B in March), ahead of an IPO now expected next year.",
+    "Companies: Novo Nordisk is partnering with Anthropic's Claude Science platform to speed AI-driven drug discovery for its Ozempic/Wegovy pipeline.",
+    "Companies: AI safety rift widens - Microsoft AI chief Suleyman blasted Anthropic's approach to training Claude around 'consciousness,' while Altman said the industry can handle AI risks and the Trump administration cast the 'effective altruism' AI-safety movement as an ideological threat.",
+    "Macro/Policy: The White House called the Fed's hike 'rather unfortunate,' underscoring the growing rift between Chair Warsh's inflation-fighting stance and the administration's push for lower rates."
   ]
 }
