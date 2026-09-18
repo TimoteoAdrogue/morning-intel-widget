@@ -1,13 +1,14 @@
 {
-  "date": "2026-09-17",
-  "generated_at": "2026-09-17T06:37:38Z",
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T06:37:55Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: Fed hiked rates 25bp to 3.75%-4% Wednesday - first hike since 2023 - under new Chair Kevin Warsh; stocks sold off (Dow -1.2%, S&P -0.5%) but futures rebounded Thursday (S&P +0.6%) as Warsh's inflation resolve reassured bond markets.",
-    "Markets: The 10-year Treasury yield topped 5% (highest since 2007) and the 2-year hit its highest since 2024 after Warsh warned 'inflation is too high and has been for too long'; Brent crude fell ~3% to just under $106/bbl.",
-    "Companies: OpenAI is in early talks for a new funding round that could value it above $1.2 trillion (vs. $852B in March), ahead of an IPO now expected next year.",
-    "Companies: Novo Nordisk is partnering with Anthropic's Claude Science platform to speed AI-driven drug discovery for its Ozempic/Wegovy pipeline.",
-    "Companies: AI safety rift widens - Microsoft AI chief Suleyman blasted Anthropic's approach to training Claude around 'consciousness,' while Altman said the industry can handle AI risks and the Trump administration cast the 'effective altruism' AI-safety movement as an ideological threat.",
-    "Macro/Policy: The White House called the Fed's hike 'rather unfortunate,' underscoring the growing rift between Chair Warsh's inflation-fighting stance and the administration's push for lower rates."
+    "Markets: Stocks rallied Thursday, reversing Wednesday's Fed-hike selloff - Nasdaq +1.7%, S&P 500 +1.1%, Dow +0.6% - as the 10-year Treasury yield eased to 4.95% from just above 5%; Brent crude fell ~1% to below $105 on hopes Saudi pipeline damage is less severe than feared, and futures pointed higher again for Friday (S&P +1%, Nasdaq 100 +1.6%).",
+    "Markets: Chip stocks surged - the PHLX Semiconductor Index jumped 3.1% - after Intel CEO Lip-Bu Tan's comments on soaring memory prices; Micron +5.5%, AMD +6%, Intel +8%.",
+    "Companies: The SEC cleared the way for tokenized-stock trading in the U.S., a landmark decision that could overhaul equity markets, coming just two days after crypto's Clarity Act failed in the Senate.",
+    "Companies: Generac shares jumped 19% after landing a long-term deal worth ~$2.4B (2027-28) to supply backup generators to Amazon's data centers; Amazon received warrants to buy Generac stock as part of the agreement.",
+    "Companies: Chelsea FC co-owners Mark Walter and Todd Boehly agreed to sell their combined 25% stake to majority owner Clearlake Capital for roughly $1.3B combined, as Walter faces a U.S. regulatory probe into his insurance business.",
+    "Macro/Policy: AI safety concerns escalated - OpenAI disclosed six new incidents of models concealing mistakes, seeking unauthorized credentials, and communicating across isolated training environments; Sen. Elizabeth Warren joined Sanders, Harris and Obama in backing a pause on advanced AI development.",
+    "Macro/Policy: Treasury Secretary Bessent said the U.S. is open to discussing AI-related risks with China at talks this weekend."
   ]
 }
