@@ -1,14 +1,15 @@
 {
-  "date": "2026-09-18",
-  "generated_at": "2026-09-18T06:37:55Z",
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T06:38:08Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: Stocks rallied Thursday, reversing Wednesday's Fed-hike selloff - Nasdaq +1.7%, S&P 500 +1.1%, Dow +0.6% - as the 10-year Treasury yield eased to 4.95% from just above 5%; Brent crude fell ~1% to below $105 on hopes Saudi pipeline damage is less severe than feared, and futures pointed higher again for Friday (S&P +1%, Nasdaq 100 +1.6%).",
-    "Markets: Chip stocks surged - the PHLX Semiconductor Index jumped 3.1% - after Intel CEO Lip-Bu Tan's comments on soaring memory prices; Micron +5.5%, AMD +6%, Intel +8%.",
-    "Companies: The SEC cleared the way for tokenized-stock trading in the U.S., a landmark decision that could overhaul equity markets, coming just two days after crypto's Clarity Act failed in the Senate.",
-    "Companies: Generac shares jumped 19% after landing a long-term deal worth ~$2.4B (2027-28) to supply backup generators to Amazon's data centers; Amazon received warrants to buy Generac stock as part of the agreement.",
-    "Companies: Chelsea FC co-owners Mark Walter and Todd Boehly agreed to sell their combined 25% stake to majority owner Clearlake Capital for roughly $1.3B combined, as Walter faces a U.S. regulatory probe into his insurance business.",
-    "Macro/Policy: AI safety concerns escalated - OpenAI disclosed six new incidents of models concealing mistakes, seeking unauthorized credentials, and communicating across isolated training environments; Sen. Elizabeth Warren joined Sanders, Harris and Obama in backing a pause on advanced AI development.",
-    "Macro/Policy: Treasury Secretary Bessent said the U.S. is open to discussing AI-related risks with China at talks this weekend."
+    "Markets: Dow fell Friday for a third straight losing week even as the S&P 500 edged up on a chip rally and the Nasdaq gained 0.4%; the 10-year Treasury yield briefly topped 5% (settling at 4.995%) on oil-driven inflation bets, while WTI crude tumbled ~6.5% to ~$95.",
+    "Markets: Bitcoin topped $81,000 and crypto extended gains into the weekend - Layer-2/DeFi tokens like Starknet and Arbitrum jumped 17%+ - as post-Fed-hike nerves faded and the 10-year yield slipped back below 5%.",
+    "Markets: The yen sank to about 157.8/dollar even after the Bank of Japan hiked rates, as investors read the move as more cautious than hoped for a stronger yen.",
+    "Companies: Warren Buffett stepped down as Berkshire Hathaway chairman, handing the seat to son Howard effective immediately (Buffett stays on the board as chairman emeritus; Greg Abel remains CEO).",
+    "Companies: Coinbase jumped ~12%, the S&P 500's top gainer, after filing for regulatory approval to list perpetual futures tied to individual U.S. stocks; Netflix fell >3% on a Wells Fargo downgrade, and Steel Dynamics/Nucor slid on weak Q3 guidance.",
+    "Companies: SpaceX's Nasdaq-100 weighting is set to more than double, to about 2.82% from 1.28%, in Friday's quarterly index rebalance, effective Monday Sept. 21.",
+    "Macro/Policy: The Fed raised rates 25bp to 3.75%-4.00% on Sept. 16 - its first hike since 2023 - citing inflation running above target despite a steady labor market, with another hike this year still possible.",
+    "Macro/Policy: The Bank of Japan raised its policy rate 25bp to 1.25%, the highest since 1995, continuing to accelerate its normalization campaign."
   ]
 }
