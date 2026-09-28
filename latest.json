@@ -1,13 +1,13 @@
 {
-  "date": "2026-09-27",
-  "generated_at": "2026-09-27T06:39:54Z",
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T06:39:43Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: US markets are closed for the weekend after Friday's rally (S&P 500 +0.5% to 7,743.41, Nasdaq +0.5% to 27,068.72, Dow +0.9% to 51,828.62); no new session data since Friday's close.",
-    "Markets: Heading into the new week, the 10-year Treasury yield sits near 5.17%, gold is near $4,285/oz, and oil is holding recent losses on hopes for a phased Strait of Hormuz reopening.",
-    "Companies: Corporate news was quiet over the weekend; markets are still digesting Friday's Akamai-Anthropic $11B+ multiyear cloud deal and the chip/AI rally (Micron, ON Semiconductor, PHLX Semi index) it helped fuel.",
-    "Macro/Policy: A stopgap funding bill signed in early September keeps the government funded through Dec. 11, taking a shutdown off the table ahead of the midterms, though the underlying fiscal fight remains unresolved.",
-    "Macro/Policy: Fed's Williams, Goolsbee and Logan made public appearances over the weekend with no fresh policy signals; futures still price elevated odds of another rate move in October.",
-    "Macro/Policy: Heavy data week ahead - JOLTS (Tue), the Fed's preferred PCE inflation gauge (Wed), ISM manufacturing (Thu), and the September jobs report (Fri Oct 2, ~90-100k jobs expected)."
+    "Markets: US stocks fell Monday (S&P 500 ~7,711, -0.4%) and futures pointed lower as Mideast tensions flared after Trump rejected Iran's latest Strait of Hormuz proposal.",
+    "Markets: Oil jumped toward $106/bbl (Brent) on Hormuz fears and Houthi strikes on Saudi infrastructure; gold broke below $4,200, and the 2-year Treasury yield climbed to 4.90%.",
+    "Companies: Microsoft rose ~3.7% on plans to merge its consumer and workplace Copilot AI assistants into one enterprise product; Alphabet +0.6%. Chip-equipment makers rallied (Applied Materials +2.3%, Lam Research +2.6%).",
+    "Companies: Big earnings this week - Micron, Nike and Accenture report, with Micron's own AI-driven guidance already looking conservative next to Street estimates.",
+    "Macro/Policy: Odds of an Oct. 28 Fed rate hike jumped to roughly 70%+ after hawkish comments from Governor Barr and hotter inflation data.",
+    "Macro/Policy: The Iran/Strait of Hormuz standoff and Houthi attacks are now the dominant macro risk driving oil and yields, reversing last week's optimism about a phased reopening."
   ]
 }
