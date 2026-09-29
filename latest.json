@@ -1,13 +1,13 @@
 {
-  "date": "2026-09-28",
-  "generated_at": "2026-09-28T06:39:43Z",
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T07:20:00Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: US stocks fell Monday (S&P 500 ~7,711, -0.4%) and futures pointed lower as Mideast tensions flared after Trump rejected Iran's latest Strait of Hormuz proposal.",
-    "Markets: Oil jumped toward $106/bbl (Brent) on Hormuz fears and Houthi strikes on Saudi infrastructure; gold broke below $4,200, and the 2-year Treasury yield climbed to 4.90%.",
-    "Companies: Microsoft rose ~3.7% on plans to merge its consumer and workplace Copilot AI assistants into one enterprise product; Alphabet +0.6%. Chip-equipment makers rallied (Applied Materials +2.3%, Lam Research +2.6%).",
-    "Companies: Big earnings this week - Micron, Nike and Accenture report, with Micron's own AI-driven guidance already looking conservative next to Street estimates.",
-    "Macro/Policy: Odds of an Oct. 28 Fed rate hike jumped to roughly 70%+ after hawkish comments from Governor Barr and hotter inflation data.",
-    "Macro/Policy: The Iran/Strait of Hormuz standoff and Houthi attacks are now the dominant macro risk driving oil and yields, reversing last week's optimism about a phased reopening."
+    "Markets: US stocks slid Monday - Dow -0.7% to 51,481.51, S&P 500 -0.8% to 7,683.69, Nasdaq -0.9% to 26,820.38 - as Treasury yields spiked; futures point lower again Tuesday.",
+    "Markets: The 10-year Treasury yield jumped to 5.24%, a fresh 19-year high, while Brent crude rose to ~$105/bbl (+0.9%) on Iran/Strait of Hormuz uncertainty; gold fell to ~$4,153 and Bitcoin held near $83.5k.",
+    "Companies: Nvidia gained ~1.5%, the lone bright spot in a down market, after unveiling a record $150B stock buyback.",
+    "Companies: Boeing sank 6-7% after the WSJ reported a 737 MAX software glitch; the FAA says it won't certify the MAX 10 until the issue is assessed.",
+    "Companies: OpenAI paused training on its most capable models after disclosing internal safety/security incidents; Anthropic CEO Dario Amodei held a private White House dinner with Trump as AI leaders' political profile grows.",
+    "Macro/Policy: Surging yields and oil are reinforcing a hawkish Fed outlook, with the Iran/Hormuz standoff remaining the dominant macro risk ahead of Tuesday's Case-Shiller, consumer confidence, and JOLTS data."
   ]
 }
