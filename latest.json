@@ -1,13 +1,13 @@
 {
-  "date": "2026-09-29",
-  "generated_at": "2026-09-29T07:20:00Z",
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T06:40:41Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: US stocks slid Monday - Dow -0.7% to 51,481.51, S&P 500 -0.8% to 7,683.69, Nasdaq -0.9% to 26,820.38 - as Treasury yields spiked; futures point lower again Tuesday.",
-    "Markets: The 10-year Treasury yield jumped to 5.24%, a fresh 19-year high, while Brent crude rose to ~$105/bbl (+0.9%) on Iran/Strait of Hormuz uncertainty; gold fell to ~$4,153 and Bitcoin held near $83.5k.",
-    "Companies: Nvidia gained ~1.5%, the lone bright spot in a down market, after unveiling a record $150B stock buyback.",
-    "Companies: Boeing sank 6-7% after the WSJ reported a 737 MAX software glitch; the FAA says it won't certify the MAX 10 until the issue is assessed.",
-    "Companies: OpenAI paused training on its most capable models after disclosing internal safety/security incidents; Anthropic CEO Dario Amodei held a private White House dinner with Trump as AI leaders' political profile grows.",
-    "Macro/Policy: Surging yields and oil are reinforcing a hawkish Fed outlook, with the Iran/Hormuz standoff remaining the dominant macro risk ahead of Tuesday's Case-Shiller, consumer confidence, and JOLTS data."
+    "Markets: US stocks fell Tuesday for a second straight session (Dow -0.3%, Nasdaq -0.1%) as the 10-year Treasury yield hit a fresh 19-year high and the 30-year hit its highest since 2002, while consumer confidence dropped to a 12-year low.",
+    "Markets: Brent crude fell 2.6% to ~$102.59/bbl as Mideast oil flows showed signs of easing; bitcoin is on pace for its best quarter since Q4 2024 (+40% since July), and the dollar has gained 1.5% this month on rising yields.",
+    "Companies: AMD is paying over $8B to acquire Fei-Fei Li's World Labs, with Li joining as chief scientist; Anthropic's leaked IPO prospectus shows a $42B 2025 net loss, revenue up 12x to ~$4.6B, and a target valuation above $2T.",
+    "Companies: OpenAI scrapped its next flagship model release over safety concerns ahead of today's DevDay; Florida's AG is seeking a court injunction to halt ChatGPT development, and SpaceX's next-gen Starship test ended in an explosion after returning early.",
+    "Macro/Policy: NY Fed's John Williams said the Fed need not rush its next rate increase, signaling a possible pause until December and pushing back on market bets for a near-term hike (Fed funds stands at 3.75-4.0% after September's hike).",
+    "Macro/Policy: Trump, Vance and AI CEOs (OpenAI, Anthropic, Google, Palantir) gather today for an AI \"Golden Age\" event amid bipartisan unease over AI safety incidents; Wednesday brings ADP employment, PCE inflation and Q2 GDP data, plus Micron, Conagra and Levi Strauss earnings."
   ]
 }
