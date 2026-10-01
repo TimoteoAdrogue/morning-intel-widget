@@ -1,13 +1,13 @@
 {
-  "date": "2026-09-30",
-  "generated_at": "2026-09-30T06:40:41Z",
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T00:00:00Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: US stocks fell Tuesday for a second straight session (Dow -0.3%, Nasdaq -0.1%) as the 10-year Treasury yield hit a fresh 19-year high and the 30-year hit its highest since 2002, while consumer confidence dropped to a 12-year low.",
-    "Markets: Brent crude fell 2.6% to ~$102.59/bbl as Mideast oil flows showed signs of easing; bitcoin is on pace for its best quarter since Q4 2024 (+40% since July), and the dollar has gained 1.5% this month on rising yields.",
-    "Companies: AMD is paying over $8B to acquire Fei-Fei Li's World Labs, with Li joining as chief scientist; Anthropic's leaked IPO prospectus shows a $42B 2025 net loss, revenue up 12x to ~$4.6B, and a target valuation above $2T.",
-    "Companies: OpenAI scrapped its next flagship model release over safety concerns ahead of today's DevDay; Florida's AG is seeking a court injunction to halt ChatGPT development, and SpaceX's next-gen Starship test ended in an explosion after returning early.",
-    "Macro/Policy: NY Fed's John Williams said the Fed need not rush its next rate increase, signaling a possible pause until December and pushing back on market bets for a near-term hike (Fed funds stands at 3.75-4.0% after September's hike).",
-    "Macro/Policy: Trump, Vance and AI CEOs (OpenAI, Anthropic, Google, Palantir) gather today for an AI \"Golden Age\" event amid bipartisan unease over AI safety incidents; Wednesday brings ADP employment, PCE inflation and Q2 GDP data, plus Micron, Conagra and Levi Strauss earnings."
+    "Markets: The 10-year Treasury yield surged to 5.304%, its highest since May 2002 (surpassing the 2007 peak), after Q2 GDP was revised up to 2.2% and the Fed's preferred inflation gauge (PCE) held at 3.4% y/y in August.",
+    "Markets: Stocks were mixed Wednesday — Dow -0.9%, Nasdaq +0.2% as Micron's strong outlook offset margin-narrowing warnings; oil rose ~1.2% to $90.48/bbl as Mideast exports tighten and gold edged up to ~$4,188.",
+    "Markets: Asia-Pacific markets opened October rattled — Australia's ASX 200 slid to a four-month low, erasing roughly $50B in value, as financial and industrial stocks dragged amid rising yields.",
+    "Macro/Policy: Traders trimmed bets on an October Fed rate hike to ~39% probability after a Fed official signaled no urgency to tighten further, even as growth and inflation data came in firmer than expected.",
+    "Macro/Policy: US-Iran negotiations showed little progress, keeping energy-driven inflation concerns elevated; new pharma tariffs are also adding cost pressure in the drug supply chain.",
+    "Companies: Accenture reports before today's open (est. EPS $3.19/rev $18.05B) and Nike after the close (est. EPS $0.44/rev $11.35B) — both seen as bellwethers for enterprise AI demand and consumer retail; manufacturing PMI, jobless claims and construction spending data are also due."
   ]
 }
