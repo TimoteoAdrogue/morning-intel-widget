@@ -1,13 +1,14 @@
 {
-  "date": "2026-10-01",
-  "generated_at": "2026-10-01T00:00:00Z",
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T00:00:00Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: The 10-year Treasury yield surged to 5.304%, its highest since May 2002 (surpassing the 2007 peak), after Q2 GDP was revised up to 2.2% and the Fed's preferred inflation gauge (PCE) held at 3.4% y/y in August.",
-    "Markets: Stocks were mixed Wednesday — Dow -0.9%, Nasdaq +0.2% as Micron's strong outlook offset margin-narrowing warnings; oil rose ~1.2% to $90.48/bbl as Mideast exports tighten and gold edged up to ~$4,188.",
-    "Markets: Asia-Pacific markets opened October rattled — Australia's ASX 200 slid to a four-month low, erasing roughly $50B in value, as financial and industrial stocks dragged amid rising yields.",
-    "Macro/Policy: Traders trimmed bets on an October Fed rate hike to ~39% probability after a Fed official signaled no urgency to tighten further, even as growth and inflation data came in firmer than expected.",
-    "Macro/Policy: US-Iran negotiations showed little progress, keeping energy-driven inflation concerns elevated; new pharma tariffs are also adding cost pressure in the drug supply chain.",
-    "Companies: Accenture reports before today's open (est. EPS $3.19/rev $18.05B) and Nike after the close (est. EPS $0.44/rev $11.35B) — both seen as bellwethers for enterprise AI demand and consumer retail; manufacturing PMI, jobless claims and construction spending data are also due."
+    "Markets: The 10-year Treasury yield spiked to a 24-year intraday high near 5.34% before easing to close at 5.233%, while French, Italian and Greek bond yields jumped in a chaotic selloff across European sovereign debt.",
+    "Markets: Wall Street recovered from early losses as the S&P 500 rose 0.2% and the Nasdaq finished roughly flat; crude oil jumped 2.7% to ~$92.87/bbl on renewed Iran tensions after reports the U.S. is sending a third aircraft carrier to the Middle East.",
+    "Markets: 30-year fixed mortgage rates leapt to 7.28% from 7.03% (Freddie Mac) — the biggest one-week jump since 2022 — as the bond-market selloff spills into the housing market.",
+    "Macro/Policy: Fed Vice Chair Philip Jefferson signaled officials need more time before deciding on further rate hikes, even as ISM manufacturing data came in slightly soft but showed a jump in prices paid by producers.",
+    "Macro/Policy: All eyes turn to Friday's September jobs report, the next major data point shaping the Fed's rate path.",
+    "Companies: Google unveiled its long-awaited Gemini 4 Argon model, claiming it beats OpenAI's GPT-6 Astra on several coding and knowledge benchmarks after a long gap atop its model lineup.",
+    "Companies: The FTC is investigating OpenAI, Anthropic and other AI firms over safety risks, while Apple is reportedly readying a home hub device for an Oct. 13 launch."
   ]
 }
