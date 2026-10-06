@@ -1,14 +1,15 @@
 {
-  "date": "2026-10-05",
-  "generated_at": "2026-10-05T13:00:00Z",
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T06:40:20Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: US futures point modestly higher as Monday's session opens, extending Friday's rally (Nasdaq +1.2%, S&P 500 +0.73%, Dow +0.5%) sparked by a much-weaker-than-expected September jobs report that boosted bets the Fed holds rates steady this month.",
-    "Markets: The 10-year Treasury yield remains just under last week's 24-year high (~5.3%), with energy-driven inflation concerns keeping pressure on long-dated bonds even as near-term rate-hold odds firm up.",
-    "Markets: Crude oil holds near $91/bbl after the G-7's coordinated 100-million-barrel emergency reserve release aimed at easing the global diesel crunch tied to the Ukraine and Middle East conflicts.",
-    "Companies: Anthropic and OpenAI's IPO race continues — Anthropic (filed first, ~$965B valuation, ~$47B revenue run-rate) is still eyeing a listing as soon as this month, while OpenAI has also filed confidentially, reportedly targeting a valuation near $1T.",
-    "Companies: Earnings season picks up this week, with PepsiCo, Delta Air Lines, Constellation Brands, Lamb Weston and RPM among the first major reports.",
-    "Macro/Policy: No new U.S. shutdown headlines since funding was secured through Dec. 11, pushing the next fiscal fight past the midterm elections.",
-    "Macro/Policy: France's Lecornu government remains under budget pressure ahead of its next parliamentary test, with Scope Ratings' recent downgrade to A+ still weighing on sentiment."
+    "Markets: Nasdaq closed at a record high Monday (+1.1%), S&P 500 +0.7%, Dow +0.2%, on a resilient-economy narrative.",
+    "Markets: 10-year Treasury yield hit a fresh two-decade high of 5.31% as strong services-sector data stokes bets the Fed may need to hike aggressively to curb inflation.",
+    "Markets: Brent crude eased ~2% to $100.32/bbl after G-7 nations agreed to a coordinated crude-oil release.",
+    "Companies: C.H. Robinson to buy rival freight broker RXO for ~$5.8B (stock+cash); RXO shares jumped, C.H. Robinson shares fell over 10%.",
+    "Companies: Schneider Electric to acquire industrial-software maker PTC for ~$23B to capitalize on AI-driven demand; PTC shares soared 30%+.",
+    "Companies: Nvidia-backed startup Reflection is prepping a powerful open-weight AI model aimed at challenging US and Chinese rivals alike (Axios scoop).",
+    "Macro/Policy: Regional bank stocks drawing fresh scrutiny as rates climb, echoing 2023's SVB-driven crisis fears, though analysts note key differences this cycle.",
+    "Macro/Policy: Dallas Fed President Lorie Logan speaks today; Treasury auctions $58B in 3-year notes; August trade balance data due."
   ]
 }
