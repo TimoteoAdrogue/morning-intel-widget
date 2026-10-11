@@ -1,15 +1,16 @@
 {
-  "date": "2026-10-10",
-  "generated_at": "2026-10-10T13:00:00Z",
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T06:40:13Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: Stocks closed out the week with a Friday rally — S&P 500 and Nasdaq each +0.6%, Dow +0.8% (423 pts) — after a sharp Thursday tech selloff, capping a week of fresh record highs.",
-    "Markets: 10-year Treasury yield ticked up to 5.24% Friday (still down on the week) as Fed political drama simmers; Brent crude +0.4% to ~$104.72 on Gulf Coast output disruptions, and gold rallied toward $4,220.",
-    "Companies: SpaceX's move to buy wireless spectrum for its own mobile network hit telecom carriers hard (T-Mobile, AT&T, Verizon all -8%+) while cell-tower operators surged (Crown Castle +16%, American Tower +9%, SBA +7%).",
-    "Companies: Delta Air Lines cut its full-year profit outlook on a $6B jump in fuel costs, though shares closed roughly flat; Nvidia's AI-era accounting for free cash flow/buybacks is drawing fresh investor scrutiny.",
-    "Companies: Q3 earnings season kicks off next week — JPMorgan, Goldman Sachs and other big banks report starting Tuesday, followed by BlackRock, Interactive Brokers and Marsh & McLennan.",
-    "Macro/Policy: Trump plans a White House hearing to investigate Fed governor Lisa Cook, keeping political pressure on the central bank ahead of next week's September CPI (Wed), PPI (Thu) and the Fed's Beige Book (Wed).",
-    "Macro/Policy: AI's weight in the economy keeps growing — tech is now ~40% of S&P 500 market cap (above the dot-com peak), nearing 50% with Meta/Amazon included — a divide analysts flag as a growing market risk.",
-    "Macro/Policy: Axios reports AI industry leaders are privately war-gaming a 'day after' scenario for a major AI-driven cyberattack, bracing for political backlash against the sector."
+    "Markets: US markets were closed over the weekend; Friday's close left the S&P 500, Dow and Nasdaq at fresh records after a strong week, with Samsung/TSMC earnings pointing to a firm reopen Monday.",
+    "Markets: Oil stayed elevated (Brent ~$104) after a reported supertanker explosion from a naval mine in the Strait of Hormuz sent freight costs to records, even as Trump pledged no Iran strike before the midterms.",
+    "Companies: Samsung posted a record ~$80B quarterly profit on the AI-memory boom and TSMC's Q3 revenue jumped 51%, underscoring AI chip demand ahead of next week's bank-earnings slate (JPMorgan, Goldman Sachs, BlackRock start Tuesday).",
+    "Companies: OpenAI's annualized revenue is now pegged at $50B, about $20B below earlier reports; Anthropic launched a Critical Infrastructure Defense Program (with Accenture, CrowdStrike, Deloitte, Palo Alto Networks) to help secure power/water/grid systems against AI-enabled cyberattacks.",
+    "Companies: Microsoft was briefly suspended from a key foreign-worker green-card program by the Trump administration, then had CEO Satya Nadella honored with a national innovation medal hours later.",
+    "Macro/Policy: Political pressure on the Fed is building — Trump plans a White House hearing on Fed governor Lisa Cook — ahead of next week's September CPI (Wed) and PPI (Thu) and the Fed's Beige Book.",
+    "Macro/Policy: Europe is a growing worry: the French OAT-Bund spread is lingering near post-financial-crisis highs, and a Bundesbank official warned the risk of a European debt crisis has risen sharply.",
+    "Macro/Policy: The Financial Stability Board said most major economies are unprepared for a large bank failure (only the US, UK, Japan and Hong Kong passed), while the NY Fed reviews banks' private-credit exposure amid fee lawsuits against BDCs (FS KKR, Blue Owl, Ares).",
+    "Macro/Policy: Crypto regulation moved on two fronts — FinCEN withdrew its proposed rule targeting crypto mixers, and the SEC proposed a framework letting advisers custody cryptocurrencies."
   ]
 }
