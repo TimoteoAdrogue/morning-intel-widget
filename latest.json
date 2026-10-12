@@ -1,16 +1,12 @@
 {
-  "date": "2026-10-11",
-  "generated_at": "2026-10-11T06:40:13Z",
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T06:40:42Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: US markets were closed over the weekend; Friday's close left the S&P 500, Dow and Nasdaq at fresh records after a strong week, with Samsung/TSMC earnings pointing to a firm reopen Monday.",
-    "Markets: Oil stayed elevated (Brent ~$104) after a reported supertanker explosion from a naval mine in the Strait of Hormuz sent freight costs to records, even as Trump pledged no Iran strike before the midterms.",
-    "Companies: Samsung posted a record ~$80B quarterly profit on the AI-memory boom and TSMC's Q3 revenue jumped 51%, underscoring AI chip demand ahead of next week's bank-earnings slate (JPMorgan, Goldman Sachs, BlackRock start Tuesday).",
-    "Companies: OpenAI's annualized revenue is now pegged at $50B, about $20B below earlier reports; Anthropic launched a Critical Infrastructure Defense Program (with Accenture, CrowdStrike, Deloitte, Palo Alto Networks) to help secure power/water/grid systems against AI-enabled cyberattacks.",
-    "Companies: Microsoft was briefly suspended from a key foreign-worker green-card program by the Trump administration, then had CEO Satya Nadella honored with a national innovation medal hours later.",
-    "Macro/Policy: Political pressure on the Fed is building — Trump plans a White House hearing on Fed governor Lisa Cook — ahead of next week's September CPI (Wed) and PPI (Thu) and the Fed's Beige Book.",
-    "Macro/Policy: Europe is a growing worry: the French OAT-Bund spread is lingering near post-financial-crisis highs, and a Bundesbank official warned the risk of a European debt crisis has risen sharply.",
-    "Macro/Policy: The Financial Stability Board said most major economies are unprepared for a large bank failure (only the US, UK, Japan and Hong Kong passed), while the NY Fed reviews banks' private-credit exposure amid fee lawsuits against BDCs (FS KKR, Blue Owl, Ares).",
-    "Macro/Policy: Crypto regulation moved on two fronts — FinCEN withdrew its proposed rule targeting crypto mixers, and the SEC proposed a framework letting advisers custody cryptocurrencies."
+    "Markets: Friday's close capped a five-day win streak — S&P 500 +0.59% to 7,811.54, Nasdaq +0.64% to 27,366.17, Dow +423pts (0.83%) to 51,654.95 — even as long-dated Treasury yields sat at fresh 24-year highs; no US trading over the weekend.",
+    "Companies: Q3 bank earnings season kicks off Tuesday with JPMorgan, Goldman Sachs, BlackRock, Wells Fargo and Citigroup reporting, followed by TSMC's results Thursday (Oct 15) and P&G's virtual annual meeting Tuesday.",
+    "Macro/Policy: All eyes on Wednesday's September CPI (8:30am ET) and Thursday's PPI — the last major inflation readings before the Fed's Oct 28 FOMC meeting.",
+    "Macro/Policy: Trump formed a White House committee to investigate Fed Governor Lisa Cook over mortgage-fraud allegations; a closed-door hearing is set for Nov 5, adding to pressure on Fed independence, while Cook's lawyers dispute the process's legitimacy.",
+    "Macro/Policy: IEA's October Oil Market Report is due Wednesday, a fresh read on global supply/demand balances after recent Strait of Hormuz-linked volatility in crude prices."
   ]
 }
