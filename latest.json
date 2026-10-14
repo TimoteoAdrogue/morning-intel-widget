@@ -1,13 +1,13 @@
 {
-  "date": "2026-10-13",
-  "generated_at": "2026-10-13T06:41:34Z",
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T06:39:53Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: Oil jumped (Brent >$106, WTI ~$93, +1.5%) after a Houthi missile hit Riyadh's airport and Russian strikes hit Ukrainian energy sites despite Trump's declared \"ceasefire\"; US stocks closed mixed Monday — Dow +0.4%, S&P 500 -0.06%, Nasdaq -0.4% — with memory-chip weakness also pressuring tech. 10-year Treasury yield holding near 24-year highs (~5.24%).",
-    "Companies: Q3 bank earnings season kicks off today before the bell — JPMorgan, Goldman Sachs, Wells Fargo and Citigroup report, with UnitedHealth, J&J and Domino's also on deck; FactSet projects 29.5% S&P 500 Q3 earnings growth.",
-    "Companies: Starbucks confirmed it won't bid for Chipotle (shares +1.7%) while Chipotle fell 3.8% as takeover speculation fizzled; SWI Group, operator of ex-FTX bitcoin-mining assets, raised ~$900M to pivot into AI data centers, shares +16%.",
-    "Macro/Policy: FHFA now lets mortgage lenders use VantageScore alongside FICO for Fannie/Freddie loans — likely more approvals, but possibly higher default risk.",
-    "Macro/Policy: Today's data (NFIB optimism, existing home sales, ADP employment) sets up for Wednesday's September CPI and Thursday's PPI, the last big inflation prints before the Oct 28 FOMC meeting.",
-    "Macro/Policy: Strategists flag the Iran conflict, stretched 2027 EPS estimates, midterm elections and the Fed's rate path as key risks heading into earnings season."
+    "Markets: Stocks closed near flat Tuesday — S&P 500 ~7,805 (-0.06%), Nasdaq -0.15%, Dow -0.4% — as mixed bank earnings offset a memory-chip selloff (Micron -3.6%, SK Hynix -3.2%) after China's CXMT touted progress; the Magnificent 7 hit a fresh record high.",
+    "Markets: The 10-year Treasury yield held near 5.22% with mortgage rates at ~7.4% (highest in nearly 3 years); WTI crude ~$95 (+1.1%) and bitcoin ~$83K as oil markets stay jittery on Mideast/Russia disruptions.",
+    "Companies: Q3 bank earnings were mixed — JPMorgan posted a rare miss, Goldman beat on strong equities trading, Wells Fargo missed and fell, Citigroup dropped 5.6%; Bank of America dipped after a $1.2B Treasury fine ahead of its own earnings Wednesday. J&J fell ~6% on an earnings miss.",
+    "Companies: Microsoft unveiled its Maia 300 AI chip to cut Nvidia dependence; Meta launched new 'frontier' AI models to rival OpenAI/Anthropic; BP flagged several billion dollars in writedowns this quarter amid a strategy reset.",
+    "Macro/Policy: September CPI and the Fed's Beige Book land Wednesday — the last big inflation readings before the Oct. 28 FOMC meeting; existing home sales rose in September for the first time since spring despite high mortgage rates.",
+    "Macro/Policy: Trump's Russia-diesel deal to ease the fuel crunch faces legal pushback from senators citing a 2022 sanctions law, with diesel prices still near record highs; separately, the White House is now mandating AI firms (including Anthropic) report security incidents after fraudulent use of government systems."
   ]
 }
