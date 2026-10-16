@@ -1,13 +1,14 @@
 {
-  "date": "2026-10-15",
-  "generated_at": "2026-10-15T06:45:00Z",
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T06:40:32Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: Hot September CPI (3.7%, above the Fed's 2% target, with core also higher than expected) sank stocks Tuesday — S&P 500 -1.1%, Nasdaq -1.9% (AI-cloud names Nebius and CoreWeave led losses), Dow -0.1%; the 10-year Treasury yield spiked above 5.3% before easing as investors sought safety.",
-    "Markets: Futures pointed lower into Thursday (S&P 500 futures -1.1%, Nasdaq 100 futures -2.1%); crude oil rose ~1% to ~$95/bbl while gold fell ~1.3%.",
-    "Companies: Bank of America's Q3 profit missed estimates even excluding a $1.2B non-tax-deductible charge tied to a Treasury/OCC fine — the 3rd-largest in Treasury history — over anti-money-laundering and sanctions-law failures; shares fell ~4.8%.",
-    "Companies: Other big banks' Q3 results were broadly strong, riding an AI-boom windfall — record investment-banking fees from AI-linked deals (including SpaceX's IPO) and debt sales, plus record wealth-management revenue at Morgan Stanley from newly minted AI wealth.",
-    "Macro/Policy: Hot inflation strengthens the case for the Fed to hike again at its meeting in two weeks; focus shifts to Fed Chair Kevin Warsh's remarks at IMF meetings in Bangkok, expected to be his last public comments before the pre-FOMC quiet period.",
-    "Macro/Policy: September retail sales and the producer-price index (wholesale inflation) are due Thursday morning — key data points ahead of the Fed's rate decision."
+    "Markets: Stocks reversed an AI-jitters selloff to close higher Thursday (Dow +1.1%, S&P 500 +0.3%, Nasdaq +0.1%) after the S&P's longest calm streak since 2020 broke earlier in the week on AI-bubble fears.",
+    "Markets: Treasury yields fell sharply as investors sought safety — the 10-year dropped to 5.09%, its biggest one-day drop since August 2025 — while gold rose ~1.5-2% and crude climbed ~2.7% to ~$97/bbl.",
+    "Markets: Hot September PPI (+6.3% y/y, a 4+ year high) on top of 3.7% CPI is strengthening the case for the Fed to hike at its meeting in two weeks; industrial production data and several bank earnings (Travelers, Citizens Financial, Truist) are due Friday.",
+    "Companies: Anthropic told investors it was cash-flow positive in Q3 with revenue up ~50% q/q to $16.8B, offering Wall Street evidence AI can be a sustainable business amid bubble fears ahead of a potential IPO some see valued near $2T.",
+    "Companies: CoreWeave swung wildly — down more than 15% Wednesday and further Thursday morning on rate fears — before rallying to close +5.9% after Nvidia's Jensen Huang voiced support.",
+    "Macro/Policy: The FTC subpoenaed OpenAI and Anthropic for documents on AI safety incidents as part of a consumer-protection probe, and plans to compel executives to testify.",
+    "Macro/Policy: Nvidia's Huang said he'd cut off chip supply to any customer building \"unsafe\" AI, while Bill Gates is ramping up his own AI-safety advocacy push, personally lobbying CEOs."
   ]
 }
