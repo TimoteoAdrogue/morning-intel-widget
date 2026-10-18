@@ -1,13 +1,12 @@
 {
-  "date": "2026-10-17",
-  "generated_at": "2026-10-17T06:40:10Z",
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T06:35:00Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: A volatile week ended with a tech-led selloff Friday — the Nasdaq Composite fell 2.1% as worries resurfaced over returns on AI infrastructure spending; CoreWeave sank 11.9% on the day (down >23% for the week).",
-    "Markets: Brent crude jumped 3.7% to near $110/bbl, its highest since May, helping push the 10-year Treasury yield up to 5.1% (still below its recent ~5.3% high) on renewed inflation concerns; gold rose to ~$4,189/oz.",
-    "Companies: Tesla unveiled its flight-capable Roadster (with SpaceX-designed thrusters) to a tepid reception, with shares down ~2.1%; Barclays analysts say the stunt points to a possible Tesla-SpaceX merger as soon as this fall, with AI cited as a driver.",
-    "Companies: Apple and Meta struck a notable AI détente — Meta's new open-weight \"Muse Spark Open\" model (816B parameters) will run locally on Apple's M5 Ultra Mac Studios, a rare collaboration between the longtime rivals.",
-    "Companies: A corporate pushback is building against the SEC's stock-tokenization push, with Broadcom, Verizon and others objecting over fears it could fragment pricing and create a shadow market.",
-    "Macro/Policy: Wall Street's AI-debt anxiety is intensifying — projected AI infrastructure capex ($7T through 2030) far outstrips expected revenue (~$3.6T, per Gartner); AI-related debt issuance plunged to $23B in September from $113B in June, and JPMorgan's Dimon says the bank is tightening credit as an Oracle data-center loan and Nvidia-backed Firmus's shelved IPO show rising stress."
+    "Markets: U.S. exchanges are closed for the weekend; no new trading session since Friday's close. Nasdaq fell 2.1% Friday on AI-spending jitters (CoreWeave -11.9% on the day, >23% for the week), while the Dow still logged a weekly gain.",
+    "Markets: 10-year Treasury yield sits near 5.09%; Brent crude near $110/bbl (highest since May) on inflation/supply concerns; gold around $4,189/oz.",
+    "Companies: Tesla's flight-capable Roadster reveal got a cool reception (shares -2.1%); Barclays analysts flag a possible Tesla-SpaceX merger as soon as this fall, citing AI as a driver.",
+    "Companies: Apple and Meta struck a rare AI detente — Meta's 816B-parameter open-weight \"Muse Spark Open\" model will run locally on Apple's M5 Ultra Mac Studios.",
+    "Macro/Policy: Fed Chair Kevin Warsh gave no hint on an October move at IMF meetings in Bangkok; markets price ~17% odds of an Oct 27-28 hike (down from 28%), while AI-debt stress persists (CoreWeave selloff, stalled Firmus IPO, a stressed Oracle data-center loan, AI debt issuance down to $23B in Sept from $113B in June)."
   ]
 }
