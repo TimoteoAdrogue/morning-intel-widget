@@ -1,12 +1,14 @@
 {
-  "date": "2026-10-18",
-  "generated_at": "2026-10-18T06:35:00Z",
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T06:35:33Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: U.S. exchanges are closed for the weekend; no new trading session since Friday's close. Nasdaq fell 2.1% Friday on AI-spending jitters (CoreWeave -11.9% on the day, >23% for the week), while the Dow still logged a weekly gain.",
-    "Markets: 10-year Treasury yield sits near 5.09%; Brent crude near $110/bbl (highest since May) on inflation/supply concerns; gold around $4,189/oz.",
-    "Companies: Tesla's flight-capable Roadster reveal got a cool reception (shares -2.1%); Barclays analysts flag a possible Tesla-SpaceX merger as soon as this fall, citing AI as a driver.",
-    "Companies: Apple and Meta struck a rare AI detente — Meta's 816B-parameter open-weight \"Muse Spark Open\" model will run locally on Apple's M5 Ultra Mac Studios.",
-    "Macro/Policy: Fed Chair Kevin Warsh gave no hint on an October move at IMF meetings in Bangkok; markets price ~17% odds of an Oct 27-28 hike (down from 28%), while AI-debt stress persists (CoreWeave selloff, stalled Firmus IPO, a stressed Oracle data-center loan, AI debt issuance down to $23B in Sept from $113B in June)."
+    "Markets: No new close since Friday — Nasdaq fell 2.1% on renewed AI-spending jitters (CoreWeave -11.9% on the day, -23% for the week); S&P 500 and Nasdaq 100 futures were last pointing sharply lower (-1.1%, -2.5%) heading into today's open.",
+    "Markets: 10-year Treasury yield near 5.1% (off last week's 5.3% high); Brent crude near $110/bbl, highest since May, on supply/inflation worries; gold ~$4,189/oz, bitcoin ~$81.6k.",
+    "Companies: Tesla shares slipped 2.1% after a cool reception to its SpaceX-thruster Roadster reveal; Barclays analysts flag a possible Tesla-SpaceX merger as soon as this fall.",
+    "Companies: CoreWeave's multiday stock-and-debt selloff continues to rattle AI-infrastructure names as investors question returns on AI capex.",
+    "Companies: Apple and Meta struck a rare AI truce — Meta's open-weight 'Muse Spark Open' model will run locally on Apple's M5 Ultra Mac Studios; separately, Broadcom and Verizon are pushing back on the SEC's stock-tokenization plans.",
+    "Macro/Policy: Wall Street is growing wary of the AI buildout — Gartner sees $7T in AI infrastructure spend through 2030 vs. only $3.6T in resulting revenue, and AI-debt issuance plunged to $23B in September from $113B in June as banks (JPMorgan included) pull back.",
+    "Macro/Policy: Week ahead — September housing starts due Tuesday, with Meta and Tesla reporting Q3 earnings Wednesday as earnings season ramps up."
   ]
 }
