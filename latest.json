@@ -1,12 +1,14 @@
 {
-  "date": "2026-10-20",
-  "generated_at": "2026-10-20T06:35:19Z",
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T00:00:00Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: Tech rebounded Monday — Nasdaq Composite +1.1%, S&P 500 +0.4%, Dow -0.1% (-36 pts); futures point higher into today's open (S&P 500 futures +0.44%, Nasdaq 100 futures +1.19%, Dow futures flat).",
-    "Markets: 10-year Treasury yield near 5.14%, among the highest in decades; WTI crude ~$98-99/bbl (up ~15% over two weeks on Houthi tanker-attack fears); gold ~$4,140/oz pressured by the dollar/yields; bitcoin ~$82k. Fed futures price only ~17% odds of a hike at the Oct 27-28 FOMC.",
-    "Companies: Heavy earnings day — GE Aerospace, GM, Halliburton, Northrop Grumman and RTX report before the open; Netflix and SpaceX report after the close (Netflix options imply a ~9% swing). Premarket: RTX -1.9%, Northrop -2%.",
-    "Companies: Cleveland-Cliffs jumped 16% after guiding to its best 2027 profit since 2021; Elon Musk pledged a SpaceX share to every U.S. child (~$10B total); Two Sigma co-founder John Overdeck faces a divorce trial that could shift control of the $85B quant fund.",
-    "Macro/Policy: Saudi Arabia postponed its 'Davos in the Desert' investor conference over Houthi-attack security concerns; AI-infrastructure jitters persist after last week's CoreWeave-led selloff; Anthropic unveiled a public-benefit fund pledging 5% of its shares (up to $100B at a $2T IPO valuation)."
+    "Markets: Dow jumped 530 pts (+1%) Monday, S&P 500 +0.3%, Nasdaq flat, as hopes of revived U.S.-Iran diplomacy talks sparked an afternoon rebound; Asian markets slid overnight after S. Korean data-center IPO Elice crashed 32% on its debut, dragging the Kospi down 3.7%.",
+    "Markets: Oil slipped — Brent -0.7% to $108.79/bbl, WTI -1.8% to $101.79/bbl; 10-year Treasury yield ~5.12%.",
+    "Companies: GM shares fell 6.8% (worst in the S&P 500) after narrowing 2027 guidance and warning of a rocky year ahead, even as it announced a fresh $20B buyback.",
+    "Companies: Anthropic's draft IPO prospectus shows explosive revenue growth alongside a net loss of more than $80B in H1 2026 and risks tied to a narrow customer base.",
+    "Companies: CoreWeave shares and bonds remain under pressure (down roughly a third in a month); WSJ argues Nvidia, which owns ~10% of CoreWeave, has strong incentive to backstop it if trouble deepens.",
+    "Macro/Policy: Goldman Sachs warns power, not chips, is now the biggest risk to the AI buildout — data-center electricity demand is seen surging 170% by 2030, requiring ~$7.6T in capex through 2031; grid-connection queues average ~5 years.",
+    "Macro/Policy: Elon Musk pledged to give every U.S. child one SpaceX share (~$10B total) next year, joining other AI-boom leaders sharing wealth via new 'Trump Accounts.'"
   ]
 }
