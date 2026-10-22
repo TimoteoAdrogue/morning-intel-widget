@@ -1,14 +1,14 @@
 {
-  "date": "2026-10-21",
-  "generated_at": "2026-10-21T00:00:00Z",
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T06:35:26Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: Dow jumped 530 pts (+1%) Monday, S&P 500 +0.3%, Nasdaq flat, as hopes of revived U.S.-Iran diplomacy talks sparked an afternoon rebound; Asian markets slid overnight after S. Korean data-center IPO Elice crashed 32% on its debut, dragging the Kospi down 3.7%.",
-    "Markets: Oil slipped — Brent -0.7% to $108.79/bbl, WTI -1.8% to $101.79/bbl; 10-year Treasury yield ~5.12%.",
-    "Companies: GM shares fell 6.8% (worst in the S&P 500) after narrowing 2027 guidance and warning of a rocky year ahead, even as it announced a fresh $20B buyback.",
-    "Companies: Anthropic's draft IPO prospectus shows explosive revenue growth alongside a net loss of more than $80B in H1 2026 and risks tied to a narrow customer base.",
-    "Companies: CoreWeave shares and bonds remain under pressure (down roughly a third in a month); WSJ argues Nvidia, which owns ~10% of CoreWeave, has strong incentive to backstop it if trouble deepens.",
-    "Macro/Policy: Goldman Sachs warns power, not chips, is now the biggest risk to the AI buildout — data-center electricity demand is seen surging 170% by 2030, requiring ~$7.6T in capex through 2031; grid-connection queues average ~5 years.",
-    "Macro/Policy: Elon Musk pledged to give every U.S. child one SpaceX share (~$10B total) next year, joining other AI-boom leaders sharing wealth via new 'Trump Accounts.'"
+    "Markets: Stocks rallied Wed as SpaceX/Tesla merger talk broke — SpaceX +7.8%, Tesla +3.4% — on reports the two Musk companies are exploring what would be the biggest M&A deal in history; Nasdaq +1%, Dow +360pts (+0.7%), S&P 500 +0.6%.",
+    "Markets: Netflix fell 5.3% on its slowest revenue growth in years; French 10-yr bond yields topped 5% for the first time in 24 years amid post-riot fiscal/political jitters.",
+    "Companies: Anthropic's draft IPO filing shows H1 2026 revenue surged to $16.3B (from $1.1B a year earlier) but with an $80.7B net loss, mostly fundraising-related accounting charges; compute commitments could reach $750B, pushing it to offer Blackstone 10%+ yields on $9B of junior debt.",
+    "Companies: OpenAI is expanding onto Google Cloud (via Model Garden/Marketplace), adding a third major cloud partner alongside AWS and Azure as the AI infrastructure race broadens.",
+    "Macro/Policy: Investors tell Axios Anthropic can't afford to delay its IPO — private markets can no longer fund AI's ballooning capex needs, pushing the industry toward public listings even in a jittery market.",
+    "Macro/Policy: New research (Frenos) finds top AI models can now plan cyberattacks on power grids and water systems with up to ~90% success rates in tests, raising fresh critical-infrastructure security concerns.",
+    "Macro/Policy: Earnings Thursday from Valero, Spotify, P&G and Lockheed Martin; weekly jobless claims data also due."
   ]
 }
