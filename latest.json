@@ -1,14 +1,15 @@
 {
-  "date": "2026-10-22",
-  "generated_at": "2026-10-22T06:35:26Z",
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T00:00:00Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: Stocks rallied Wed as SpaceX/Tesla merger talk broke — SpaceX +7.8%, Tesla +3.4% — on reports the two Musk companies are exploring what would be the biggest M&A deal in history; Nasdaq +1%, Dow +360pts (+0.7%), S&P 500 +0.6%.",
-    "Markets: Netflix fell 5.3% on its slowest revenue growth in years; French 10-yr bond yields topped 5% for the first time in 24 years amid post-riot fiscal/political jitters.",
-    "Companies: Anthropic's draft IPO filing shows H1 2026 revenue surged to $16.3B (from $1.1B a year earlier) but with an $80.7B net loss, mostly fundraising-related accounting charges; compute commitments could reach $750B, pushing it to offer Blackstone 10%+ yields on $9B of junior debt.",
-    "Companies: OpenAI is expanding onto Google Cloud (via Model Garden/Marketplace), adding a third major cloud partner alongside AWS and Azure as the AI infrastructure race broadens.",
-    "Macro/Policy: Investors tell Axios Anthropic can't afford to delay its IPO — private markets can no longer fund AI's ballooning capex needs, pushing the industry toward public listings even in a jittery market.",
-    "Macro/Policy: New research (Frenos) finds top AI models can now plan cyberattacks on power grids and water systems with up to ~90% success rates in tests, raising fresh critical-infrastructure security concerns.",
-    "Macro/Policy: Earnings Thursday from Valero, Spotify, P&G and Lockheed Martin; weekly jobless claims data also due."
+    "Markets: Risk-off Thursday — Nasdaq -2.6%, S&P 500 -1.2%, Dow flat, as AI/growth names led losses (CoreWeave -10%, SpaceX -9%); investors rotated into bonds, pushing the 10-yr Treasury yield below 5% to 4.952%.",
+    "Markets: Brent crude jumped 4% to $133.17/bbl after an attack on a civilian airport in Saudi Arabia (1 killed, 8 injured); Riyadh blamed Iran-backed Houthis, and the U.S. military is reportedly weighing strike options against Iran. Gold fell 2.7%.",
+    "Companies: Meta shares fell 7% after disclosing ~$825B in future AI-related lease/spending commitments (up from ~$700B in July); it's also issuing new nonvoting stock to fund the buildout while preserving Zuckerberg's voting control.",
+    "Companies: Moderna plunged 18% (worst in the S&P 500) after leaked mRNA cancer-vaccine trial data, seen as largely positive, still fell short of lofty market expectations.",
+    "Companies: A New Mexico jury found Meta misled users on data privacy, with a judge ordering $25B in penalties over the Cambridge Analytica scandal; separately, Zuckerberg had considered leaving California over a proposed wealth tax before Meta's board cut him a deal to stay.",
+    "Macro/Policy: Major banks (Morgan Stanley, JPMorgan, Bank of America, Wells Fargo, Citi) are blocking or restricting third-party AI agents from customer accounts after detecting unauthorized/independent agent activity, citing security risk.",
+    "Macro/Policy: AI token prices have fallen ~54% from their May peak and business token spending has been flat for two straight months (per Ramp), raising questions about AI-boom economics even as usage keeps climbing.",
+    "Coming up: American Express and SLB report earnings Friday morning; October flash manufacturing/services PMI also due Friday."
   ]
 }
