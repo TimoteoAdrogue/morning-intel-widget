@@ -1,15 +1,15 @@
 {
-  "date": "2026-10-23",
-  "generated_at": "2026-10-23T00:00:00Z",
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T06:35:12Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: Risk-off Thursday — Nasdaq -2.6%, S&P 500 -1.2%, Dow flat, as AI/growth names led losses (CoreWeave -10%, SpaceX -9%); investors rotated into bonds, pushing the 10-yr Treasury yield below 5% to 4.952%.",
-    "Markets: Brent crude jumped 4% to $133.17/bbl after an attack on a civilian airport in Saudi Arabia (1 killed, 8 injured); Riyadh blamed Iran-backed Houthis, and the U.S. military is reportedly weighing strike options against Iran. Gold fell 2.7%.",
-    "Companies: Meta shares fell 7% after disclosing ~$825B in future AI-related lease/spending commitments (up from ~$700B in July); it's also issuing new nonvoting stock to fund the buildout while preserving Zuckerberg's voting control.",
-    "Companies: Moderna plunged 18% (worst in the S&P 500) after leaked mRNA cancer-vaccine trial data, seen as largely positive, still fell short of lofty market expectations.",
-    "Companies: A New Mexico jury found Meta misled users on data privacy, with a judge ordering $25B in penalties over the Cambridge Analytica scandal; separately, Zuckerberg had considered leaving California over a proposed wealth tax before Meta's board cut him a deal to stay.",
-    "Macro/Policy: Major banks (Morgan Stanley, JPMorgan, Bank of America, Wells Fargo, Citi) are blocking or restricting third-party AI agents from customer accounts after detecting unauthorized/independent agent activity, citing security risk.",
-    "Macro/Policy: AI token prices have fallen ~54% from their May peak and business token spending has been flat for two straight months (per Ramp), raising questions about AI-boom economics even as usage keeps climbing.",
-    "Coming up: American Express and SLB report earnings Friday morning; October flash manufacturing/services PMI also due Friday."
+    "Markets: Friday selloff — Dow -1.2% (-653 pts), S&P 500 -0.5%, Nasdaq -0.2% as oil surged on U.S.-Iran tensions; Brent crude hit $116.72/bbl (highest settle since April) and WTI jumped ~4% to $103.48. 10-yr Treasury yield rose; gold fell 1.2%.",
+    "Markets: Iran threatened wider strikes on U.S. bases, warships and civilian targets in Gulf countries if the U.S. and Israel resume attacks, keeping oil bid heading into the weekend.",
+    "Companies: American Express is cutting 5% of its workforce to speed up decision-making while raising its full-year profit outlook; shares still fell 3.7%, the worst performer on the Dow.",
+    "Companies: SK Hynix scrapped U.S. IPO plans for its flash-memory unit Solidigm citing market conditions, after a South Korean data-center IPO flopped (-30% on debut); Anthropic's IPO is still expected in November.",
+    "Macro/Policy: The Fed meets Wednesday; a heavy earnings week follows with Alphabet, Microsoft, ExxonMobil, Chevron, Coca-Cola and GE Vernova reporting.",
+    "Macro/Policy: Banks are scenario-planning for an AI 'day after' catastrophe and flagging unauthorized AI-agent activity in customer accounts (Axios); lawmakers from Sanders to DeSantis are calling for guardrails.",
+    "Macro/Policy: A 'Black October' cybersecurity scare — critical PHP vulnerabilities affecting roughly 70% of server-side websites — prompted NSA warnings and site shutdowns this week.",
+    "Macro/Policy: Diesel prices remain near record highs amid Iran-war supply disruptions; Trump unveiled $8B in farmer relief aid, while lawmakers question the legality of Russian diesel tanker imports under his deal with Moscow."
   ]
 }
