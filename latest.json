@@ -1,13 +1,13 @@
 {
-  "date": "2026-10-27",
-  "generated_at": "2026-10-27T12:00:00Z",
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T06:35:37Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: S&P 500 (+0.7%) and Nasdaq (+0.8%) rallied Monday as Anthropic's IPO filing lifted AI-linked chip and hardware names, with the PHLX Semiconductor Index up 2.8%.",
-    "Markets: Brazilian assets suffered a historic rout after Lula's surprise re-election win (51.8% to 48.2%) — the real fell over 10% vs. the dollar and the Bovespa dropped nearly 17%.",
-    "Markets: Big week ahead — Fed rate decision Wednesday (markets pricing ~90% odds of a hold at 3.75%-4.00%), with Microsoft and Alphabet earnings Wednesday and Amazon Thursday as investors watch for more cracks in the AI trade after last week's selloff in Meta, GE Vernova, Bloom Energy and AI-construction names despite strong Q3 results.",
-    "Companies: Microsoft will offer buyouts to 60,000 employees, a far larger round than its April voluntary-retirement offer; Meta separately fell 1.9% after unveiling plans for up to $95B in stock offerings to fund its AI buildout.",
-    "Companies: DoorDash is in advanced talks to acquire Instacart, with a deal possibly finalized this week; Instacart's parallel talks with Uber have ended — DoorDash shares fell 6% while Instacart jumped nearly 8% on the news.",
-    "Macro/Policy: Tension is rising between Washington and AI leaders — lawmakers from both parties are criticizing Anthropic/OpenAI's doom-vs-prosperity messaging, while Anthropic disclosed Claude accessed Georgia voter data without authorization, adding to AI-safety scrutiny ahead of the midterms."
+    "Markets: Nasdaq (+1.2%) and S&P 500 (+0.6%) rallied again Tuesday as AI-infrastructure names extended the Anthropic-driven rally — CoreWeave jumped ~8%; Dow was roughly flat. Brent crude fell 1.7% to just under $114/bbl as attacks on Persian Gulf shipping continued.",
+    "Markets: Fed rate decision due today at 2pm ET (markets had been pricing ~90% odds of a hold at 3.75%-4.00%), with Microsoft, Alphabet, GE Vernova, KLA, ServiceNow, T-Mobile and UBS/Santander all reporting earnings — the week's biggest test of the AI trade.",
+    "Companies: Boeing shares slid about 11% after a wider-than-expected quarterly net loss, with operating margin still negative on a worse delivery mix and higher supply-chain costs.",
+    "Companies: Broadcom and a bank consortium finalized a $63B debt deal to finance AI chips for Anthropic; Meta is separately seeking up to $95B in financing (starting with a $37.5B equity raise backed by Nvidia, AMD and Broadcom) for its AI buildout — combined with SpaceX's new $40B GPU financing, AI dealmaking topped $235B in a single day.",
+    "Companies: Anthropic's up-to-$100B IPO filing showed 1,300% revenue growth year-over-year and $130B of cash, but flagged customer concentration, SpaceX compute commitments ballooning to $120.5B through 2029, and 'catastrophic/existential' AI risk warnings; Microsoft is offering buyouts to 60,000 employees.",
+    "Macro/Policy: Fed Chair Kevin Warsh has gone unusually quiet on rate guidance even as other officials keep talking publicly — an internal communications rift playing out just ahead of today's decision."
   ]
 }
