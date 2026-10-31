@@ -1,13 +1,15 @@
 {
-  "date": "2026-10-30",
-  "generated_at": "2026-10-30T06:37:18Z",
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T00:00:00Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: Fed held rates at 3.75%-4.00% Wednesday in a 10-2 vote; Cook and Hammack dissented in favor of a hike, and Chair Warsh said politics played 'no role' ahead of midterms — odds of a December hike are rising.",
-    "Markets: Thursday's close was mixed/lower — Nasdaq fell ~1.4% and the S&P 500 slipped as Alphabet sank on AI-spending and search-growth worries, even as most individual stocks rose and Microsoft held up better on ~43% Azure growth.",
-    "Macro/Policy: The advance Q3 GDP estimate (released Thursday) showed the strongest quarterly growth in about two years, driven by consumer spending, though economists flagged slowing momentum heading into Q4.",
-    "Companies: Amazon missed on EPS ($1.89) and revenue (~$201.9B) despite AWS surging 39% to ~$46B and a record 13.9% operating margin; soft Q4 revenue guidance ($240B-$247B) and ~$77B of quarterly capex sent shares down 6-7% after hours.",
-    "Companies: Mastercard beat estimates (adjusted EPS $5.31, revenue +14% to $9.8B) on resilient consumer spending; Caterpillar posted a big beat (sales +17% to $20.7B, adjusted EPS $7.20) on record backlog and AI-driven power demand, though shares still weighed on the Dow.",
-    "Companies: Today's slate includes Chevron and AbbVie before the open and Apple after the close, capping one of the busiest weeks of the Q3 earnings season."
+    "Markets: Stocks sold off Friday (Oct 30) — Nasdaq -2.9%, S&P 500 -1.8%, Dow -1.1% — as Intel plunged 29% on weak Q4 guidance and a warning that PC sales are tanking; Reddit also fell 29% on growth worries.",
+    "Markets: Flight to bonds — the 10-year Treasury yield eased to 4.93%, its steepest monthly drop since Dec 2023; gold slid ~3.7% and Bitcoin fell ~5% to below $77K amid crypto-hack fallout.",
+    "Companies: Binance halted trading after hackers linked to North Korea's TraderTraitor unit stole $6.3B — the largest crypto heist ever; Coinbase shares dropped 12%.",
+    "Companies: Big Oil topped estimates on refining strength — Exxon $15.4B, Chevron $9.9B, BP $8.5B in Q3 profit — while Rivian jumped ~7% premarket on an earnings beat and strong R2 SUV demand.",
+    "Companies: DoorDash is pitching its $17B Instacart deal as a way to help small retailers compete with Amazon and Walmart; Amazon shares stay pressured after Thursday's AI-capex cash-flow warning.",
+    "Macro/Policy: Three Fed officials signaled support for a December rate hike even after this week's hold at 3.75%-4.00%, keeping markets on edge over the policy path.",
+    "Macro/Policy: Labor Dept. finalized a rule forcing pharmacy benefit managers (CVS Caremark, Express Scripts, Optum Rx) to disclose fees and spread pricing starting next July.",
+    "Macro/Policy: A bipartisan energy permitting bill is hitting Democratic resistance (Rep. Casten) over fears it favors a natural-gas buildout over renewables amid AI-driven power demand."
   ]
 }
