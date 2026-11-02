@@ -1,16 +1,13 @@
 {
-  "date": "2026-11-01",
-  "generated_at": "2026-11-01T06:35:32Z",
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T06:36:27Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: No new session today (Sunday) — last close was Friday Oct 30's steep selloff: S&P 500 -1.8% to 7,580, Dow -1.1% to 51,770, Nasdaq -2.9% to 25,437, its worst day since June.",
-    "Markets: Intel crashed 29% on weak Q4 guidance and tanking PC sales, dragging the AI trade down; Reddit also fell 29% on user-growth worries.",
-    "Markets: 10-year Treasury yield eased to 4.93% on the tech selloff, capping its steepest monthly drop since Dec 2023; gold slid ~3.7% and Bitcoin fell ~5% to below $77K.",
-    "Companies: Binance halted trading after hackers linked to North Korea's TraderTraitor unit stole $6.3B — the largest crypto heist on record; Coinbase shares dropped 12%. No confirmed updates on recovered funds as of this writing.",
-    "Companies: Big Oil topped estimates on refining strength — Exxon $15.4B, Chevron $9.9B, BP $8.5B in Q3 profit — while Rivian jumped ~7% premarket on an earnings beat and strong R2 SUV demand.",
-    "Companies: DoorDash is pitching its $17B Instacart deal as helping small retailers compete with Amazon and Walmart; Amazon shares stayed pressured after warning of plunging free cash flow tied to AI capex.",
-    "Macro/Policy: Three Fed officials signaled support for a December rate hike even after this week's hold at 3.75%-4.00%, keeping markets on edge over the policy path.",
-    "Macro/Policy: Labor Dept. finalized a rule forcing PBMs (CVS Caremark, Express Scripts, Optum Rx) to disclose fees and spread pricing starting next July.",
-    "Macro/Policy: A bipartisan energy permitting bill is hitting Democratic resistance (Rep. Casten) over fears it favors a natural-gas buildout over renewables amid AI-driven power demand."
+    "Markets: Wall Street opens the week still shaking off Friday's AI-driven selloff (S&P 500 -1.8%, Nasdaq -2.9%, its worst day since June); Nasdaq remains roughly 8% below its October record high.",
+    "Markets: Fed December rate-hike odds have slipped to ~69% (from ~85% right after last week's hold at 3.75%-4.00%) as the tech rout eases pressure on policymakers; the 10-year Treasury yield sits near 4.93%.",
+    "Companies: Alphabet sank ~12% on its Q3 report and Amazon slipped despite AWS revenue surging 39% and a record 13.9% operating margin — investors remain fixated on rising AI capex over the earnings beats.",
+    "Companies: Binance's $6.3B hack, tied to North Korea's TraderTraitor group, stands as the largest crypto heist on record; Coinbase shares remain pressured with no confirmed recovery of funds.",
+    "Macro/Policy: Investors are bracing for Tuesday's US midterm elections, with markets broadly favoring a divided Congress as the most market-friendly outcome.",
+    "Macro/Policy: A bipartisan energy-permitting bill is hitting Democratic resistance over fears it favors a natural-gas buildout over renewables amid AI-driven power demand."
   ]
 }
