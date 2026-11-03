@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-02",
-  "generated_at": "2026-11-02T06:36:27Z",
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T06:35:28Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: Wall Street opens the week still shaking off Friday's AI-driven selloff (S&P 500 -1.8%, Nasdaq -2.9%, its worst day since June); Nasdaq remains roughly 8% below its October record high.",
-    "Markets: Fed December rate-hike odds have slipped to ~69% (from ~85% right after last week's hold at 3.75%-4.00%) as the tech rout eases pressure on policymakers; the 10-year Treasury yield sits near 4.93%.",
-    "Companies: Alphabet sank ~12% on its Q3 report and Amazon slipped despite AWS revenue surging 39% and a record 13.9% operating margin — investors remain fixated on rising AI capex over the earnings beats.",
-    "Companies: Binance's $6.3B hack, tied to North Korea's TraderTraitor group, stands as the largest crypto heist on record; Coinbase shares remain pressured with no confirmed recovery of funds.",
-    "Macro/Policy: Investors are bracing for Tuesday's US midterm elections, with markets broadly favoring a divided Congress as the most market-friendly outcome.",
-    "Macro/Policy: A bipartisan energy-permitting bill is hitting Democratic resistance over fears it favors a natural-gas buildout over renewables amid AI-driven power demand."
+    "Markets: Stocks reversed lower Monday as the AI selloff continued — Nasdaq -1.1%, S&P 500 -0.5% — while the Dow eked out +0.4% on rotation into housing/old-economy names (Home Depot, Walmart, Sherwin-Williams).",
+    "Markets: Oil cratered ~7.6% (Brent to ~$105) on reports Trump won't rush fresh Iran strikes after the midterms; the 10-year Treasury yield slid to 4.89%.",
+    "Companies: Marvell agreed to buy optics maker Lumentum for ~$80B in an all-stock AI deal; both stocks fell hard (Marvell -13%, Lumentum -19%) on dilution and premium worries. CoreWeave and Oracle each sank ~9% in the broader AI pullback.",
+    "Companies: Anthropic's updated IPO filing disclosed ~$895B in compute purchase/lease commitments; Q3 revenue hit $17B, up from $1.4B a year earlier.",
+    "Macro/Policy: Today's US midterm election results are the next big market catalyst, with investors watching for signs of a divided Congress.",
+    "Macro/Policy: Wednesday brings AMD, Amgen and Pfizer earnings plus September JOLTS job-openings data."
   ]
 }
