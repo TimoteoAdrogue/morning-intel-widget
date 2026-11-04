@@ -1,13 +1,14 @@
 {
-  "date": "2026-11-03",
-  "generated_at": "2026-11-03T06:35:28Z",
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T06:35:00Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: Stocks reversed lower Monday as the AI selloff continued — Nasdaq -1.1%, S&P 500 -0.5% — while the Dow eked out +0.4% on rotation into housing/old-economy names (Home Depot, Walmart, Sherwin-Williams).",
-    "Markets: Oil cratered ~7.6% (Brent to ~$105) on reports Trump won't rush fresh Iran strikes after the midterms; the 10-year Treasury yield slid to 4.89%.",
-    "Companies: Marvell agreed to buy optics maker Lumentum for ~$80B in an all-stock AI deal; both stocks fell hard (Marvell -13%, Lumentum -19%) on dilution and premium worries. CoreWeave and Oracle each sank ~9% in the broader AI pullback.",
-    "Companies: Anthropic's updated IPO filing disclosed ~$895B in compute purchase/lease commitments; Q3 revenue hit $17B, up from $1.4B a year earlier.",
-    "Macro/Policy: Today's US midterm election results are the next big market catalyst, with investors watching for signs of a divided Congress.",
-    "Macro/Policy: Wednesday brings AMD, Amgen and Pfizer earnings plus September JOLTS job-openings data."
+    "Markets: US stock futures tumbled overnight as early returns pointed to a Democratic sweep of the House and Senate — Nasdaq 100 futures fell ~2%, S&P 500 futures ~1%, Dow futures ~400+ points — extending Tuesday's AI-driven selloff.",
+    "Markets: Tuesday's cash close was mixed ahead of the vote (Dow -0.4%, Nasdaq +0.8%, S&P 500 +0.4%), while Brent crude slid toward $104 after Trump said the US will cut off military aid to Israel by year-end.",
+    "Companies: Apple fell 2% on weak margin guidance from high memory costs, letting Nvidia reclaim the title of world's most valuable company.",
+    "Companies: Apollo Global Management swung to a $1B+ Q3 net loss (shares -5%); Meta is paying a steep ~1.6-point yield premium on a new $4B bond sale to fund its AI buildout.",
+    "Companies: Anthropic's IPO prep looks strong even as AI-linked stocks get hammered (CoreWeave down >40% in a month); OpenAI's latest funding round valued it at $1.25T, short of its $1.4T target.",
+    "Macro/Policy: JPMorgan estimates a Democratic 'blue wave' could knock ~0.5% off the S&P 500 as investors brace for policy uncertainty while full midterm results land.",
+    "Macro/Policy: Wednesday's calendar: ADP jobs report, trade balance and PMI data, plus earnings from AMD, Qualcomm, Uber, Pfizer, CVS Health and McDonald's."
   ]
 }
