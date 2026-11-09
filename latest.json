@@ -1,11 +1,13 @@
 {
-  "date": "2026-11-08",
-  "generated_at": "2026-11-08T13:00:00Z",
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T06:35:48Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: Quiet weekend - US markets closed, no new trading since Friday's partial rebound (S&P +0.3%, Nasdaq +1.1%, Dow -0.5%) that clawed back part of Thursday's AI-driven selloff, which had pushed major indexes into correction territory.",
-    "Markets: Next catalyst is October CPI, due Tuesday Nov 10 (PPI follows Friday); consensus looks for headline CPI +0.3% m/m and core +0.2% m/m, with a hot print likely to pressure stocks further.",
-    "Companies: No major new weekend developments - lingering storylines remain Anthropic's $1.5T IPO valuation being questioned by investors after the AI selloff, and Tesla's planned Cybertruck production wind-down.",
-    "Macro/Policy: Fed's next meeting is Dec. 9; CME FedWatch rate-hike odds sit near 77% after last week's strong October jobs report, with Tuesday's CPI seen as the next swing factor."
+    "Markets: Nasdaq confirmed a correction after last week's AI-driven rout (Nvidia -8.7%, ~$2.2T wiped off Nasdaq-100); Friday saw a partial rebound (S&P +0.3%, Nasdaq +1.1%), and futures ticked up Sunday night (S&P +0.1%, Nasdaq 100 +0.3%) heading into the new trading week.",
+    "Markets: Oil rebounded, with Brent crude +3.9% to ~$98/bbl after a near-9% one-day drop.",
+    "Companies: AI-spending skepticism lingers after Alphabet and Meta earnings failed to reassure investors on AI returns; Anthropic's reported $1.5T IPO valuation is facing investor pushback post-selloff.",
+    "Companies: Heavy earnings week ahead - Constellation Energy, KKR, Barrick Mining, Occidental and Take-Two report Monday; Cisco and Applied Materials follow later in the week.",
+    "Macro/Policy: Democrats' historic midterm gains add to the political uncertainty weighing on AI/tech sentiment.",
+    "Macro/Policy: October CPI lands Tuesday Nov 10 (consensus +0.3% headline, +0.2% core m/m) with PPI Friday - the key data ahead of the Fed's Dec. 9 meeting, where cut odds sit near 77%."
   ]
 }
