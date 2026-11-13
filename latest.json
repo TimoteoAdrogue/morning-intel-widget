@@ -1,14 +1,13 @@
 {
-  "date": "2026-11-12",
-  "generated_at": "2026-11-12T13:10:00Z",
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T06:34:57Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: Wednesday's AI-driven rally lifted the Nasdaq +1.6%, S&P 500 +1.3%, and Dow +0.5%, clawing back part of Tuesday's hot-CPI selloff; the dollar hit a fresh 19-month high on hawkish Fed rate-hike bets while bond markets were closed for Veterans Day.",
-    "Markets: Oil rose after two down sessions as the Trump administration signals a more restrained approach to Iran; gold slipped roughly 1% to just under $4,000.",
-    "Companies: CoreWeave (CRWV) jumped 25% after beating revenue estimates and raising 2026 sales guidance, lifting other AI/data-center and chip names and easing recent jitters over its rising borrowing costs.",
-    "Companies: Meta fell 2% after a WSJ report that United Airlines plans to block AI agents (e.g. Meta's Muse, OpenAI's Dots) from booking flights on its systems, highlighting friction between travel/retail firms and AI-agent commerce.",
-    "Companies: Applied Materials, Cisco, Cerebras, and Brookfield report earnings today after the close, with AMAT and Cisco seen as key AI-capex bellwethers.",
-    "Macro/Policy: WSJ's lead story warns the global economy looks vulnerable to an AI investment bust - a slowdown would hit exports in weaker economies and squeeze retail investors worldwide who piled into tech stocks; governments have limited fiscal room to respond.",
-    "Macro/Policy: Today's data slate includes weekly jobless claims, existing home sales, and the monthly Treasury budget."
+    "Markets: Nvidia shares tumbled as much as 14% intraday Thursday before closing down 5.4% after CEO Jensen Huang resigned; the Nasdaq slid 0.4%, S&P 500 fell 0.4%, and the Dow lost 0.3% as the scandal rattled AI-linked names.",
+    "Markets: Gold cratered to a 52-week low ($3,889.40/oz, -$113.60) on its third straight down session, pressured by rising Treasury yields, a stronger dollar, and traders cashing out winners to cover tech losses; the 10-year yield climbed further amid fading odds of a US-Iran deal.",
+    "Companies: Nvidia named CFO Colette Kress interim CEO and director Harvey Jones board chair after Huang's abrupt exit from both the C-suite and the board; rivals AMD and Broadcom gained on the news while Micron and CoreWeave, both tied to Nvidia's ecosystem, fell. Nvidia reports earnings Tuesday.",
+    "Companies: Anthropic is still pushing ahead with its Nasdaq IPO (ticker ANT), reportedly targeting a listing before Thanksgiving at a $1.5-2T valuation, despite the AI-stock selloff - seen as a key test of Wall Street's continued faith in the AI trade.",
+    "Macro/Policy: Axios scoop - Commerce Secretary Lutnick has repeatedly stalled a Trump-ordered crackdown on firms (including Megaspeed) accused of diverting Nvidia chips to China, despite pushback from Bessent, Hegseth, and Rubio; Senate Democrats are demanding records as the chip-diversion/espionage scandal around Huang widens.",
+    "Macro/Policy: Trump said the US doesn't need an Iran deal and directed VP Vance to probe Democrat-run cities/states instead, adding to inflation and oil-supply uncertainty (crude ~$89/bbl, +2.8%) and keeping Fed December rate-cut odds muddled."
   ]
 }
