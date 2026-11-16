@@ -1,14 +1,12 @@
 {
-  "date": "2026-11-15",
-  "generated_at": "2026-11-15T06:35:33Z",
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T06:35:06Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: Quiet weekend, no new session — Friday's close still stands. Nasdaq fell 0.9%, S&P 500 fell 0.4%, Dow rose 0.1%, as AI-trade jitters build ahead of Nvidia's Tuesday earnings; Nvidia itself closed down 2%.",
-    "Markets: Treasury yields eased Friday after Thursday's sharp rise on hardening Fed rate-hike bets (10-year near 5.15%); oil ticked up on Mideast conflict risk, while IEA sees the global oil market tipping back into surplus this quarter as Gulf exports recover to 82% of pre-war levels.",
-    "Companies: Nvidia's board named CFO Colette Kress interim CEO and director Harvey Jones its first-ever board chair after Jensen Huang resigned amid reports of affairs and an alleged tie to a suspected Chinese spy; a permanent-successor search is underway.",
-    "Companies: Anthropic, maker of Claude, is still targeting a roughly $1.33T IPO valuation, with shares expected to begin trading Thursday; CEO Dario Amodei says he hopes to 'underpromise and overdeliver.'",
-    "Companies: Microsoft shares recovered from a widespread Teams/Outlook outage; chipmaker Cerebras beat Q3 revenue estimates, raised its forecast, and announced a new Microsoft deal.",
-    "Macro/Policy: October wholesale prices (PPI) rose 0.3% m/m but the 12-month rate climbed to a hot 6.5% from 6.3%, reinforcing a hawkish Fed tilt ahead of Wednesday's FOMC minutes.",
-    "Macro/Policy: Commerce Secretary Lutnick faces bipartisan Congressional pressure (Sens. Warren, Kennedy) over delayed chip-export-control action tied to the Huang scandal, though the White House continues to back him."
+    "Markets: Asian shares fell Monday on weak Japan GDP and China data; chipmakers led losses, with SK Hynix sliding over 6% on Nvidia/export-curb worries, and US futures gave back early gains ahead of Fed Chair Warsh's speech.",
+    "Markets: Brent crude dipped below $90/barrel (lowest since August) after the IEA flagged a Q4 oil surplus and on easing Iran tensions; gold slid below $3,900/oz on dollar strength and rising Fed rate-hike bets.",
+    "Companies: Nvidia reports earnings Tuesday, a closely watched print after a rough stretch for AI and chip stocks across Asia and the US.",
+    "Macro/Policy: CME FedWatch now prices roughly 94% odds of a 25bp rate hike in December; KC Fed President Schmid said inflation is still 'running too hot.'",
+    "Macro/Policy: October FOMC meeting minutes are due Wednesday, with markets looking for confirmation of the Fed's hawkish tilt."
   ]
 }
