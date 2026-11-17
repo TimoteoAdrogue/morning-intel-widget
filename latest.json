@@ -1,12 +1,14 @@
 {
-  "date": "2026-11-16",
-  "generated_at": "2026-11-16T06:35:06Z",
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T13:00:00Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: Asian shares fell Monday on weak Japan GDP and China data; chipmakers led losses, with SK Hynix sliding over 6% on Nvidia/export-curb worries, and US futures gave back early gains ahead of Fed Chair Warsh's speech.",
-    "Markets: Brent crude dipped below $90/barrel (lowest since August) after the IEA flagged a Q4 oil surplus and on easing Iran tensions; gold slid below $3,900/oz on dollar strength and rising Fed rate-hike bets.",
-    "Companies: Nvidia reports earnings Tuesday, a closely watched print after a rough stretch for AI and chip stocks across Asia and the US.",
-    "Macro/Policy: CME FedWatch now prices roughly 94% odds of a 25bp rate hike in December; KC Fed President Schmid said inflation is still 'running too hot.'",
-    "Macro/Policy: October FOMC meeting minutes are due Wednesday, with markets looking for confirmation of the Fed's hawkish tilt."
+    "Markets: Tech-led selloff Monday — S&P 500 -1.9%, Nasdaq -2.5%, Dow -739pts (-1.4%); futures pointed further down into Tuesday (S&P futures -1.8%, Nasdaq 100 futures -2.6%) as AI-stock jitters persisted.",
+    "Markets: Nvidia fell another 4.1% Monday, market cap dropping below $3.8T; 10-year Treasury yield eased to 5.12% and crude slid ~3.8% to ~$85.",
+    "Companies: Nvidia reports Q3 earnings today after the close (~5pm ET) — first report since CEO Jensen Huang's resignation — guided to ~$108B revenue; board reportedly not considering reinstating Huang.",
+    "Companies: Tyson Foods jumped ~9% on an improved beef-business outlook; Home Depot and Walt Disney also report earnings today.",
+    "Companies: Growing 'AI bubble' worries — Axios/WSJ note AI infrastructure spend (~$7T projected through 2030) is outpacing forecast revenue (~$3.6T), with Anthropic's IPO terms and OpenAI's widening losses adding to valuation-reset concerns.",
+    "Macro/Policy: Fed Chair Kevin Warsh says the Fed's task force is gaming out how AI could reshape the economy and labor market; October retail sales data due today, with Fed's Musalem, Williams and Hammack also speaking.",
+    "Macro/Policy: Huang scandal is fueling bipartisan momentum for tighter chip-export restrictions to China and straining the Trump administration's alliance with Big Tech."
   ]
 }
