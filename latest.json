@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-17",
-  "generated_at": "2026-11-17T13:00:00Z",
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T06:35:32Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: Tech-led selloff Monday — S&P 500 -1.9%, Nasdaq -2.5%, Dow -739pts (-1.4%); futures pointed further down into Tuesday (S&P futures -1.8%, Nasdaq 100 futures -2.6%) as AI-stock jitters persisted.",
-    "Markets: Nvidia fell another 4.1% Monday, market cap dropping below $3.8T; 10-year Treasury yield eased to 5.12% and crude slid ~3.8% to ~$85.",
-    "Companies: Nvidia reports Q3 earnings today after the close (~5pm ET) — first report since CEO Jensen Huang's resignation — guided to ~$108B revenue; board reportedly not considering reinstating Huang.",
-    "Companies: Tyson Foods jumped ~9% on an improved beef-business outlook; Home Depot and Walt Disney also report earnings today.",
-    "Companies: Growing 'AI bubble' worries — Axios/WSJ note AI infrastructure spend (~$7T projected through 2030) is outpacing forecast revenue (~$3.6T), with Anthropic's IPO terms and OpenAI's widening losses adding to valuation-reset concerns.",
-    "Macro/Policy: Fed Chair Kevin Warsh says the Fed's task force is gaming out how AI could reshape the economy and labor market; October retail sales data due today, with Fed's Musalem, Williams and Hammack also speaking.",
-    "Macro/Policy: Huang scandal is fueling bipartisan momentum for tighter chip-export restrictions to China and straining the Trump administration's alliance with Big Tech."
+    "Markets: Wall St pared earlier losses but still fell Monday — S&P 500 -1%, Nasdaq -0.7%, Dow -1.6% (-848pts) — as AI-valuation jitters persisted; the Nasdaq had been down as much as 2% intraday.",
+    "Markets: The 10-year Treasury yield eased to 5.105% (from 5.122%) after soft October retail sales; Anthropic's IPO reportedly priced above its $70-78 range on strong demand, with ANT shares expected to begin trading on Nasdaq Nov. 19.",
+    "Companies: Nvidia reported solid Q3 earnings after the bell, though shares still slipped 0.5% on the day; separately, WSJ reports the SEC is probing Nvidia amid Jensen Huang's abrupt departure as CEO.",
+    "Companies: Huang said he'd be 'honored' to return as Nvidia CEO if asked, but the board isn't considering it; UBS estimates up to $50B could exit the AI ecosystem if Nvidia pulls back its vendor financing.",
+    "Companies: Home Depot's CEO Ted Decker is stepping down after medical leave (shares -2.5%) even as the retailer raised full-year guidance; Disney targets $3B in annual cost cuts by FY2029 under new CEO Josh D'Amaro (shares -1.5%).",
+    "Macro/Policy: October retail sales grew just 0.2% (vs. 0.8% in Sept.), suggesting the tax-cut spending boost is fading; FOMC minutes are due Wednesday, with Fed's Barr and Kashkari speaking and Oct. housing starts/pending home sales ahead.",
+    "Macro/Policy: California's AG sued OpenAI over agent-driven cyberattacks, rejecting the idea that AI firms can 'pass off blame to machines' — part of a broader regulatory tightening around AI providers."
   ]
 }
