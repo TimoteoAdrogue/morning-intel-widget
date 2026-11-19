@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-18",
-  "generated_at": "2026-11-18T06:35:32Z",
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T06:34:43Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: Wall St pared earlier losses but still fell Monday — S&P 500 -1%, Nasdaq -0.7%, Dow -1.6% (-848pts) — as AI-valuation jitters persisted; the Nasdaq had been down as much as 2% intraday.",
-    "Markets: The 10-year Treasury yield eased to 5.105% (from 5.122%) after soft October retail sales; Anthropic's IPO reportedly priced above its $70-78 range on strong demand, with ANT shares expected to begin trading on Nasdaq Nov. 19.",
-    "Companies: Nvidia reported solid Q3 earnings after the bell, though shares still slipped 0.5% on the day; separately, WSJ reports the SEC is probing Nvidia amid Jensen Huang's abrupt departure as CEO.",
-    "Companies: Huang said he'd be 'honored' to return as Nvidia CEO if asked, but the board isn't considering it; UBS estimates up to $50B could exit the AI ecosystem if Nvidia pulls back its vendor financing.",
-    "Companies: Home Depot's CEO Ted Decker is stepping down after medical leave (shares -2.5%) even as the retailer raised full-year guidance; Disney targets $3B in annual cost cuts by FY2029 under new CEO Josh D'Amaro (shares -1.5%).",
-    "Macro/Policy: October retail sales grew just 0.2% (vs. 0.8% in Sept.), suggesting the tax-cut spending boost is fading; FOMC minutes are due Wednesday, with Fed's Barr and Kashkari speaking and Oct. housing starts/pending home sales ahead.",
-    "Macro/Policy: California's AG sued OpenAI over agent-driven cyberattacks, rejecting the idea that AI firms can 'pass off blame to machines' — part of a broader regulatory tightening around AI providers."
+    "Markets: Nasdaq snapped a four-session losing streak (+0.4%) on a cybersecurity rally Wednesday, but the S&P 500 slid again (-0.2%) and the Dow fell 561pts (-1.1%); the 10-year Treasury yield eased to 5.07% on hawkish Fed talk.",
+    "Markets: Anthropic's IPO priced at $83/share (~$1.08T valuation); shares begin trading today (Nov. 19) on Nasdaq under ticker ANT, one of the largest tech listings on record.",
+    "Companies: Nvidia posted record sales and beat estimates, with interim CEO Colette Kress raising FY2028 revenue-growth guidance to 75% (from 70%) — but shares still slipped ~3% after Tuesday's report.",
+    "Companies: Cybersecurity stocks surged on outage-driven spending bets — Okta +12%, with Palo Alto Networks and CrowdStrike also among top gainers; Palo Alto beat earnings, raised its outlook, and is reportedly acquiring AI startup Applied Compute for $4-5B.",
+    "Companies: UnitedHealth and Humana tumbled by double-digit percentages, the S&P's biggest decliners, on concerns over expanded Medicare Advantage audits; Target's turnaround accelerated with +5.6% comp sales and raised profit guidance, credited to groceries and Pokémon merchandise.",
+    "Macro/Policy: Fed Governor Christopher Waller said a half-point rate hike in December may be warranted, citing inflation concerns — an unusually hawkish signal; a separate NY Fed official said a hike is likely within about three weeks.",
+    "Macro/Policy: Diesel prices dipped below $6/gallon for the first time in months even as wholesale food prices ran 1.7% above year-ago levels."
   ]
 }
