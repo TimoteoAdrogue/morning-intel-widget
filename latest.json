@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-19",
-  "generated_at": "2026-11-19T06:34:43Z",
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T06:34:35Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: Nasdaq snapped a four-session losing streak (+0.4%) on a cybersecurity rally Wednesday, but the S&P 500 slid again (-0.2%) and the Dow fell 561pts (-1.1%); the 10-year Treasury yield eased to 5.07% on hawkish Fed talk.",
-    "Markets: Anthropic's IPO priced at $83/share (~$1.08T valuation); shares begin trading today (Nov. 19) on Nasdaq under ticker ANT, one of the largest tech listings on record.",
-    "Companies: Nvidia posted record sales and beat estimates, with interim CEO Colette Kress raising FY2028 revenue-growth guidance to 75% (from 70%) — but shares still slipped ~3% after Tuesday's report.",
-    "Companies: Cybersecurity stocks surged on outage-driven spending bets — Okta +12%, with Palo Alto Networks and CrowdStrike also among top gainers; Palo Alto beat earnings, raised its outlook, and is reportedly acquiring AI startup Applied Compute for $4-5B.",
-    "Companies: UnitedHealth and Humana tumbled by double-digit percentages, the S&P's biggest decliners, on concerns over expanded Medicare Advantage audits; Target's turnaround accelerated with +5.6% comp sales and raised profit guidance, credited to groceries and Pokémon merchandise.",
-    "Macro/Policy: Fed Governor Christopher Waller said a half-point rate hike in December may be warranted, citing inflation concerns — an unusually hawkish signal; a separate NY Fed official said a hike is likely within about three weeks.",
-    "Macro/Policy: Diesel prices dipped below $6/gallon for the first time in months even as wholesale food prices ran 1.7% above year-ago levels."
+    "Markets: Stocks sold off sharply Thursday despite Anthropic's blockbuster IPO — Nasdaq -2.3%, S&P 500 -2%, Dow -1,101pts (-2.2%); the 10-year Treasury yield held above 5% (5.051%) and gold/silver hit their lowest levels in over a year (gold ~$3,628/oz) on rate-hike expectations.",
+    "Markets: Anthropic (ANT) priced its IPO at $83/share and jumped 17% in its Nasdaq debut, valuing the Claude maker at ~$1.08T (up to ~$1.5-1.8T fully diluted) in one of the largest tech listings on record; Amazon and Google will hold ~15% and ~14% nonvoting stakes, respectively.",
+    "Companies: A ransomware group leaked limited customer data from Visa, Mastercard and JPMorgan Chase; Visa fell 3% and S&P financials dropped 1.5%, while cybersecurity stocks rallied again (Palo Alto Networks +6.4%).",
+    "Companies: Williams-Sonoma led S&P decliners (-15%+) after a Pottery Barn-driven revenue slowdown tied to weak home sales; Take-Two Interactive fell 3.7% (-18% YTD) even as GTA VI launched to strong reviews.",
+    "Companies: Seven major corporations (FedEx, GE Aerospace, GM, JPMorgan, Pfizer, John Deere, United Airlines) launched an 'AI Deployer Council' to push for a bigger voice in AI regulation.",
+    "Macro/Policy: A wave of recent tech outages (Microsoft, Apple, JPMorgan, United, Workday, FAA, NSA) has fueled bot-driven conspiracy theories online, with researchers finding roughly 30% of related posts came from suspected bot accounts, per Axios.",
+    "Macro/Policy: Fed officials Waller, Cook and Barkin are due to speak Friday ahead of the University of Michigan's final November consumer sentiment survey; the Fed held rates steady at 3.75-4% at its Oct. 28 meeting."
   ]
 }
