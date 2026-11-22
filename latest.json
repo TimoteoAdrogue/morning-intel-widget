@@ -1,13 +1,14 @@
 {
-  "date": "2026-11-21",
-  "generated_at": "2026-11-21T06:35:31Z",
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T06:36:20Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: Stocks extended their slide Friday — Nasdaq -5.3% (worst week in over a year, now red for 2026), S&P 500 -3.7%, Dow -949pts (-1.9%); S&P and Dow are both down >10% from recent highs, in correction territory, as AI-buildout jitters deepened.",
-    "Markets: Treasuries rallied as yields plunged — the 10-year fell to 4.909% (-0.14pt Friday, -0.24pt on the week) and the 2-year posted its biggest weekly drop since 2024; gold fell 4.6% to $3,512/oz (fresh 52-week lows) and Brent crude ended the week down 3.4% (~$92.57/bbl). Chipmakers were hit hardest, with the PHLX Semiconductor Index down ~11% on the day.",
-    "Companies: Anthropic's IPO — the largest on record at $93.5B raised and a ~$1.7T valuation (briefly topping Meta) — reversed hard on day two, falling as much as 12% to near its $83 listing price after a 17% first-day pop, as employees began selling into the broader tech rout.",
-    "Companies: Meta disclosed a 45% jump in AI-driven data-center emissions and is reconsidering its 2030 net-zero target; Nvidia was subpoenaed by California's AG over a probe into CEO conduct, AI-chip claims and its China dealings.",
-    "Macro/Policy: The White House named Pentagon CIO Kirsten Davies as the new national cyber director, replacing Sean Cairncross amid a broader shakeup of Trump's AI/tech team.",
-    "Macro/Policy: Traders are pricing in near-certainty of another Fed rate move in December as growth and AI-spending concerns weigh on the outlook; next week's data focus shifts to the PCE inflation report, new home sales, Case-Shiller home prices, and earnings from Dell, Best Buy, Dollar Tree and Deere."
+    "Markets: No new session over the weekend — stocks head into the week still in correction territory after Friday's AI-led rout (S&P 500 -3.7% to 6,910; Nasdaq -5.3% to 22,618), the worst week since April 2025 (S&P -8.6% for the week).",
+    "Markets: The VIX closed near 37 Friday, up sharply from ~20 at the start of last week; a Thanksgiving-shortened session begins Monday (half day Friday).",
+    "Companies: Nvidia remains the focal point heading into the week amid a reported SEC inquiry into its disclosures, following Jensen Huang's Nov. 12 resignation as CEO; CFO Colette Kress continues as interim chief.",
+    "Companies: Anthropic's newly listed shares are hovering just above their $83 IPO price after giving back their first-day pop in the broader tech selloff.",
+    "Companies: Recent M&A still digesting: Marvell's ~$115B all-stock deal for Lumentum, Fox's ~$22B Roku acquisition, and CVS Health's plan to split into two public companies.",
+    "Macro/Policy: Prediction markets now lean toward a 25bp Fed rate HIKE (not a cut) at the Dec. 9 meeting, a reversal from earlier cut bets after hotter-than-expected inflation data.",
+    "Macro/Policy: Week ahead: holiday-shortened trading, the October PCE inflation report, consumer confidence data, and earnings from Dell, Best Buy, Dollar Tree and Deere."
   ]
 }
