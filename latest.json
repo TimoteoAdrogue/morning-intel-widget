@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-22",
-  "generated_at": "2026-11-22T06:36:20Z",
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T06:35:29Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: No new session over the weekend — stocks head into the week still in correction territory after Friday's AI-led rout (S&P 500 -3.7% to 6,910; Nasdaq -5.3% to 22,618), the worst week since April 2025 (S&P -8.6% for the week).",
-    "Markets: The VIX closed near 37 Friday, up sharply from ~20 at the start of last week; a Thanksgiving-shortened session begins Monday (half day Friday).",
-    "Companies: Nvidia remains the focal point heading into the week amid a reported SEC inquiry into its disclosures, following Jensen Huang's Nov. 12 resignation as CEO; CFO Colette Kress continues as interim chief.",
-    "Companies: Anthropic's newly listed shares are hovering just above their $83 IPO price after giving back their first-day pop in the broader tech selloff.",
-    "Companies: Recent M&A still digesting: Marvell's ~$115B all-stock deal for Lumentum, Fox's ~$22B Roku acquisition, and CVS Health's plan to split into two public companies.",
-    "Macro/Policy: Prediction markets now lean toward a 25bp Fed rate HIKE (not a cut) at the Dec. 9 meeting, a reversal from earlier cut bets after hotter-than-expected inflation data.",
-    "Macro/Policy: Week ahead: holiday-shortened trading, the October PCE inflation report, consumer confidence data, and earnings from Dell, Best Buy, Dollar Tree and Deere."
+    "Markets: Stocks remain in correction territory heading into Monday after Friday's AI-led rout — Nasdaq -5.3% (worst week in over a year, now negative for 2026), S&P 500 -3.7%, Dow -949 pts (-1.9%); S&P and Dow are both down more than 10% from recent peaks.",
+    "Markets: Investors fled to safety Friday — the 10-year Treasury yield sank to 4.909% and the 2-year to 4.611%, the bond market's best week since 2024 — while gold still fell 4.6% to a 52-week low of $3,512/oz and Brent crude slipped 3.4% on the week to ~$92.57.",
+    "Companies: Nvidia shares are down more than 10% since CEO Jensen Huang's Nov. 12 resignation, and the WSJ reports the SEC has opened a civil inquiry into the company's disclosures; interim CEO Colette Kress is running the business while a search firm seeks a permanent replacement.",
+    "Companies: Anthropic's newly listed shares gave back their first-day pop, dipping as low as $83.05 (just above the IPO price) as AI-infrastructure names (Sandisk, Bloom Energy, Nvidia, semis) took the sharpest hits; the PHLX Semiconductor index fell ~11% Friday alone.",
+    "Companies: Recent M&A still being digested: Marvell's ~$115B all-stock bid for Lumentum, Fox's ~$22B deal for Roku, and CVS Health's plan to split into two public companies.",
+    "Macro/Policy: Prediction markets have flipped toward a 25bp Fed rate HIKE at the Dec. 9 meeting rather than a cut, reversing earlier bets after hotter-than-expected inflation data.",
+    "Macro/Policy: Week ahead: October PCE inflation (the Fed's preferred gauge), new home sales, Case-Shiller home prices, earnings from Dell, Best Buy, Dollar Tree and Deere, and a Dec. 1 congressional hearing tied to the Nvidia/Huang probes."
   ]
 }
