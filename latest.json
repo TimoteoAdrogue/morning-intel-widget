@@ -1,14 +1,16 @@
 {
-  "date": "2026-11-24",
-  "generated_at": "2026-11-24T06:34:55Z",
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T13:10:00Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: Nvidia's reinstatement of Jensen Huang as CEO Monday sparked a furious rally — Nasdaq +6.5%, S&P 500 +4.7%, Dow +3% — with Nvidia shares up 31%, CoreWeave +22% and Micron +19%; Anthropic, which listed last week, slipped 1.4%.",
-    "Markets: Credit markets were less enthusiastic than equities — Nvidia's bonds dipped in price and spreads vs. Treasurys widened Monday, signaling bondholder unease that Huang's return could reaccelerate risk-taking.",
-    "Companies: Huang was rehired just 12 days after resigning amid a scandal tied to an alleged mistress linked to Chinese intelligence; the reinstatement followed a Trump-backed campaign, even as Nvidia's SEC accounting inquiry and internal probe continue.",
-    "Companies: Anthropic, fresh off a bumpy stock debut last week, is preparing a bond sale to help fund a planned ~$900B AI buildout; as an unprofitable company it's expected to be rated 'junk.'",
-    "Companies: M&A roundup — ABB buying Germany's Ziehl-Abegg for $2.22B; ConocoPhillips selling its Norway unit and UK Teesside stake to Vår Energi for ~$3.9B; TotalEnergies acquiring Continental Resources' gas assets; BASF selling its battery-recycling unit to Cylib.",
-    "Macro/Policy: UN COP31 climate talks in Turkey collapsed Sunday without a final deal after oil-producing nations blocked fossil-fuel-transition language, reviving calls to overhaul the summit process.",
-    "Macro/Policy: CMS proposed a Medicare Advantage overhaul cutting $107B in insurer payments from 2028-2037; week ahead brings Sept home prices and Nov consumer confidence data, plus Dell/Best Buy/Dollar Tree/Deere earnings."
+    "Markets: Nvidia's Monday relief rally stalled Tuesday, with shares down 5.9% — now more than 10% below where they stood before Jensen Huang's resignation — dragging the Nasdaq down 1.5% and the S&P 500 down 0.5%, while the Dow rose 0.9%.",
+    "Markets: Short sellers who made roughly $13.7B betting against Nvidia last week gave back about 90% of those gains after Monday's Huang-driven surge; CoreWeave fell nearly 12% and Analog Devices dropped 17% on a weak profit outlook.",
+    "Markets: Brent crude slipped below $90/barrel, its lowest since late August, as Mideast supply fears ease and the IEA forecasts a Q4 surplus; US gasoline has fallen almost 70 cents over the past month to a $3.61/gallon average.",
+    "Companies: Anthropic shares fell 6.5% to $81.90, dropping below its $83 IPO price just over a week after its debut, even as broader tech rebounded.",
+    "Companies: AI-power plays rallied on Huang's return — Bloom Energy jumped 18% and GE Vernova also gained — while Databricks is reportedly in early talks to raise funds at a $225B valuation.",
+    "Companies: Nvidia drew a California AG subpoena over its China dealings and investor disclosures, adding to scrutiny even as Huang resumes the CEO role.",
+    "Macro/Policy: Trump personally pushed Nvidia's board to reinstate Huang, calling him \"too big to fail,\" amid swirling (and contested) allegations about Huang's ties to a woman suspected of spying for China.",
+    "Macro/Policy: Axios scoop — insiders at OpenAI and Anthropic increasingly fear unreleased frontier models are too powerful to safely release, sparking internal debate over whether to keep training ever-larger models at all.",
+    "Macro/Policy: Wednesday's data docket includes the Q3 GDP estimate, October PCE (the Fed's preferred inflation gauge), and October new-home sales."
   ]
 }
