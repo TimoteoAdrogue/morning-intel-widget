@@ -1,16 +1,15 @@
 {
-  "date": "2026-11-25",
-  "generated_at": "2026-11-25T13:10:00Z",
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T06:34:51Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: Nvidia's Monday relief rally stalled Tuesday, with shares down 5.9% — now more than 10% below where they stood before Jensen Huang's resignation — dragging the Nasdaq down 1.5% and the S&P 500 down 0.5%, while the Dow rose 0.9%.",
-    "Markets: Short sellers who made roughly $13.7B betting against Nvidia last week gave back about 90% of those gains after Monday's Huang-driven surge; CoreWeave fell nearly 12% and Analog Devices dropped 17% on a weak profit outlook.",
-    "Markets: Brent crude slipped below $90/barrel, its lowest since late August, as Mideast supply fears ease and the IEA forecasts a Q4 surplus; US gasoline has fallen almost 70 cents over the past month to a $3.61/gallon average.",
-    "Companies: Anthropic shares fell 6.5% to $81.90, dropping below its $83 IPO price just over a week after its debut, even as broader tech rebounded.",
-    "Companies: AI-power plays rallied on Huang's return — Bloom Energy jumped 18% and GE Vernova also gained — while Databricks is reportedly in early talks to raise funds at a $225B valuation.",
-    "Companies: Nvidia drew a California AG subpoena over its China dealings and investor disclosures, adding to scrutiny even as Huang resumes the CEO role.",
-    "Macro/Policy: Trump personally pushed Nvidia's board to reinstate Huang, calling him \"too big to fail,\" amid swirling (and contested) allegations about Huang's ties to a woman suspected of spying for China.",
-    "Macro/Policy: Axios scoop — insiders at OpenAI and Anthropic increasingly fear unreleased frontier models are too powerful to safely release, sparking internal debate over whether to keep training ever-larger models at all.",
-    "Macro/Policy: Wednesday's data docket includes the Q3 GDP estimate, October PCE (the Fed's preferred inflation gauge), and October new-home sales."
+    "Markets: U.S. markets are closed today for Thanksgiving (half day Friday); Wednesday's wild session ended with the S&P 500 down 0.3% and Nasdaq down 0.6% after an intraday plunge of more than 4%, while the Dow rose 0.3%.",
+    "Markets: S&P Global put Nvidia on credit watch for a possible downgrade of its AA rating, citing board/governance vulnerabilities; shares fell 3.9% Wednesday.",
+    "Markets: Short-seller Michael Burry closed out his Nasdaq-100 put position, saying he's now 'temporarily almost entirely long.'",
+    "Companies: Nvidia boardroom turmoil keeps rippling through AI-linked stocks even after Jensen Huang resumed the CEO role this week.",
+    "Companies: Thanksgiving gas prices averaged $3.59/gallon, narrowly missing the 2022 record after falling about 70 cents over the past month on easing Mideast supply fears.",
+    "Macro/Policy: The Trump administration proposed fresh tariffs on China, Vietnam, the EU and dozens of other countries over subsidies, including 20% on most Chinese goods (up to 40% if talks collapse).",
+    "Macro/Policy: Axios scoop - AI executives are splitting over Anthropic's view that humanity should eventually cede decisions to superintelligent AI, with Meta's Alexandr Wang and OpenAI's Sam Altman pushing back on Dario Amodei's stance.",
+    "Macro/Policy: House GOP plans to bring the bipartisan, Senate-passed permitting/transmission bill to the floor next week; TD Cowen puts a 75% chance on it becoming law this year."
   ]
 }
