@@ -1,15 +1,13 @@
 {
-  "date": "2026-11-26",
-  "generated_at": "2026-11-26T06:34:51Z",
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T06:35:20Z",
   "title": "Morning Intel",
   "bullets": [
-    "Markets: U.S. markets are closed today for Thanksgiving (half day Friday); Wednesday's wild session ended with the S&P 500 down 0.3% and Nasdaq down 0.6% after an intraday plunge of more than 4%, while the Dow rose 0.3%.",
-    "Markets: S&P Global put Nvidia on credit watch for a possible downgrade of its AA rating, citing board/governance vulnerabilities; shares fell 3.9% Wednesday.",
-    "Markets: Short-seller Michael Burry closed out his Nasdaq-100 put position, saying he's now 'temporarily almost entirely long.'",
-    "Companies: Nvidia boardroom turmoil keeps rippling through AI-linked stocks even after Jensen Huang resumed the CEO role this week.",
-    "Companies: Thanksgiving gas prices averaged $3.59/gallon, narrowly missing the 2022 record after falling about 70 cents over the past month on easing Mideast supply fears.",
-    "Macro/Policy: The Trump administration proposed fresh tariffs on China, Vietnam, the EU and dozens of other countries over subsidies, including 20% on most Chinese goods (up to 40% if talks collapse).",
-    "Macro/Policy: Axios scoop - AI executives are splitting over Anthropic's view that humanity should eventually cede decisions to superintelligent AI, with Meta's Alexandr Wang and OpenAI's Sam Altman pushing back on Dario Amodei's stance.",
-    "Macro/Policy: House GOP plans to bring the bipartisan, Senate-passed permitting/transmission bill to the floor next week; TD Cowen puts a 75% chance on it becoming law this year."
+    "Markets: Wall Street enters Black Friday's shortened session (1pm ET close) looking to extend gains after Wednesday's close, when the Dow reclaimed the 50,000 mark while the S&P 500 and Nasdaq stayed softer on lingering AI-stock weakness.",
+    "Markets: November has been a volatile month for tech, with the Nasdaq on track to snap a multi-month win streak as investors reassess AI-related valuations.",
+    "Companies: Nvidia shares remain under pressure this week amid S&P's credit-watch warning and growing worries that hyperscalers' in-house AI chips threaten its margins.",
+    "Companies: Alphabet had one of its worst weeks since 2008 even as its custom TPU chips are seen as a competitive threat to Nvidia; Amazon also traded lower on AI-capex jitters.",
+    "Macro/Policy: The Fed held rates steady at its October 28 meeting; traders remain split on whether a December 9 cut is still likely as year-end rate-cut odds turn more uncertain.",
+    "Macro/Policy: No major US economic data is due in the holiday-shortened week; markets continue digesting the administration's proposed tariffs on China, Vietnam, the EU and other trading partners."
   ]
 }
